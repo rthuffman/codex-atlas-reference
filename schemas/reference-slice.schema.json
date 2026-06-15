@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rthuffman/codex-atlas-reference/schemas/reference-slice.schema.json",
+  "title": "Codex Atlas Reference Slice",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "slice_format_version",
+    "slice_id",
+    "pack_id",
+    "requires_seeds_bundle_version",
+    "record_count",
+    "records"
+  ],
+  "properties": {
+    "slice_format_version": { "const": 1 },
+    "slice_id": { "type": "string", "minLength": 1 },
+    "pack_id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+    "requires_seeds_bundle_version": { "type": "string", "minLength": 1 },
+    "reference_bundle_version": { "type": "string" },
+    "record_count": { "type": "integer", "minimum": 0 },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["ProspectusID"],
+        "oneOf": [
+          {
+            "required": ["VertexType", "Name", "Sticker"],
+            "properties": {
+              "VertexType": { "const": "Person" },
+              "ProspectusID": {
+                "type": "string",
+                "pattern": "^72a4cd2a-fa72-774a-a73c-72588[0-9a-fA-F]{7}$"
+              }
+            }
+          },
+          {
+            "required": ["EdgeType", "from_prospectus_id", "to_prospectus_id", "Sticker"],
+            "properties": {
+              "EdgeType": { "const": "HoldsSeat" },
+              "ProspectusID": {
+                "type": "string",
+                "pattern": "^72a4cd2a-fa72-774a-a73c-72588[0-9a-fA-F]{7}$"
+              },
+              "from_prospectus_id": {
+                "type": "string",
+                "pattern": "^72a4cd2a-fa72-774a-a73c-72588[0-9a-fA-F]{7}$"
+              },
+              "to_prospectus_id": {
+                "type": "string",
+                "pattern": "^72a4cd2a-fa72-774a-a73c-72587[0-9a-fA-F]{7}$"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

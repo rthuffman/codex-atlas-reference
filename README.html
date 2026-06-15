@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>codex-atlas-reference</title>
+</head>
+<body>
+  <h1>codex-atlas-reference</h1>
+  <p>
+    Public repository for certified historical Codex Atlas reference packs. The first v1 family is for
+    historical U.S. officeholder <code>Person</code> and <code>HoldsSeat</code> records materialized with the
+    reserved <code>72588</code> ProspectusID band.
+  </p>
+
+  <h2>Trust Boundary</h2>
+  <p>
+    Only operator-reviewed reference slices belong here. Raw Prospectus exports, reconciliation reports,
+    uncertain identity matches, and other pre-certification artifacts stay in the private
+    <code>codex-workbench</code> repository.
+  </p>
+
+  <h2>Bundle Shape</h2>
+  <p>A release asset is a <code>.tar.gz</code> containing:</p>
+  <pre><code>manifest.json
+packs/
+  us_holders_house/
+    congress_001.json
+    ...
+</code></pre>
+  <p>
+    <code>manifest.json</code> declares <code>bundle_version</code>, <code>requires_seeds_bundle_version</code>,
+    <code>requires_atlas_schema_version</code>, release tier, corpus date, and the pack/file list.
+    Each slice is a JSON document with <code>records[]</code>. Person rows use <code>VertexType: "Person"</code>.
+    Holder rows use <code>EdgeType: "HoldsSeat"</code>, <code>from_prospectus_id</code> for the person
+    <code>72588</code> ID, and <code>to_prospectus_id</code> for the structural office <code>72587</code> ID.
+  </p>
+
+  <h2>Validation</h2>
+  <pre><code>python tools/validate_reference_bundle.py .
+python -m pytest tests -q
+</code></pre>
+
+  <h2>Current Status</h2>
+  <p>
+    Scaffold only. Do not publish generated holder slices until the Prospectus export has been reconciled
+    against gold YAML, Bioguide aliases, and the compatible <code>codex-atlas-seeds</code> bundle.
+  </p>
+</body>
+</html>

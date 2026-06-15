@@ -1,0 +1,25 @@
+{
+  "bundle_format_version": 1,
+  "bundle_version": "0.1.0-civil-war.2",
+  "requires_seeds_bundle_version": "0.3.7",
+  "requires_atlas_schema_version": "1.2.0",
+  "release_tier": "minor",
+  "corpus_as_of": "2026-06-15",
+  "packs": [
+    {
+      "pack_id": "us_holders_house",
+      "pack_version": "0.1.0-civil-war.2",
+      "files": [
+        "people_civil_war.json",
+        "congress_036.json",
+        "congress_037.json",
+        "congress_038.json",
+        "congress_039.json",
+        "congress_040.json",
+        "congress_041.json"
+      ],
+      "description": "Civil War House holder candidate slices, Congresses 36-41, reconciled against operator gold."
+    }
+  ],
+  "notes": "Civil War House holder pack (36-41) with office_key-derived skeleton to_prospectus_id endpoints for deterministic materialize against seeds 0.3.7."
+}

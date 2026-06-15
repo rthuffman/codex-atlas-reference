@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rthuffman/codex-atlas-reference/schemas/reference-bundle.schema.json",
+  "title": "Codex Atlas Reference Bundle Manifest",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "bundle_format_version",
+    "bundle_version",
+    "requires_seeds_bundle_version",
+    "requires_atlas_schema_version",
+    "release_tier",
+    "corpus_as_of",
+    "packs"
+  ],
+  "properties": {
+    "bundle_format_version": { "const": 1 },
+    "bundle_version": { "type": "string", "minLength": 1 },
+    "requires_seeds_bundle_version": { "type": "string", "minLength": 1 },
+    "requires_atlas_schema_version": { "type": "string", "minLength": 1 },
+    "release_tier": { "enum": ["major", "minor", "patch"] },
+    "corpus_as_of": { "type": "string", "minLength": 1 },
+    "packs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["pack_id", "pack_version", "files"],
+        "properties": {
+          "pack_id": { "type": "string", "pattern": "^[a-z][a-z0-9_]*$" },
+          "pack_version": { "type": "string", "minLength": 1 },
+          "files": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "type": "string", "pattern": "^[A-Za-z0-9_./-]+\\.json$" }
+          }
+        }
+      }
+    }
+  }
+}
