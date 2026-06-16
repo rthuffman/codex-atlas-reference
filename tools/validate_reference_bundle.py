@@ -14,6 +14,27 @@ _PACK_ID_RE = re.compile(r"^[a-z][a-z0-9_]*$")
 _REFERENCE_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72588[0-9a-f]{7}$", re.I)
 _SKELETON_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72587[0-9a-f]{7}$", re.I)
 
+# Operator policy A (2026-06-15): gold Vacant wins — Civil War House seats that must
+# not carry reference HoldsSeat rows. See athena-codex
+# docs/current-projects/Oddities in the civil war congress.yaml (37th AL/AR, 38th FL/LA, 40th MS).
+GOLD_VACANT_HOUSE_OFFICE_KEYS: frozenset[str] = frozenset(
+    {
+        "37|AL|1",
+        "37|AL|2",
+        "37|AL|3",
+        "37|AL|4",
+        "37|AL|5",
+        "37|AL|6",
+        "37|AL|7",
+        "37|AR|1",
+        "37|AR|2",
+        "38|FL|A",
+        "38|LA|1",
+        "38|LA|2",
+        "40|MS|1",
+    }
+)
+
 
 def _load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
@@ -106,6 +127,13 @@ def validate_bundle(root: Path) -> list[str]:
                         _err(errors, slice_path, f"records[{idx}].from_prospectus_id must be 72588")
                     if not _SKELETON_PID_RE.match(to_pid):
                         _err(errors, slice_path, f"records[{idx}].to_prospectus_id must be 72587")
+                    office_key = str(row.get("office_key") or "").strip()
+                    if office_key in GOLD_VACANT_HOUSE_OFFICE_KEYS:
+                        _err(
+                            errors,
+                            slice_path,
+                            f"records[{idx}] violates policy A: HoldsSeat forbidden at gold-vacant office_key {office_key}",
+                        )
                 else:
                     _err(errors, slice_path, f"records[{idx}] needs VertexType or EdgeType")
     return errors
