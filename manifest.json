@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.2.0-pre-civil-war.1",
+  "bundle_version": "0.3.0-post-reconstruction-42-79.1",
   "requires_seeds_bundle_version": "0.3.11",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.2.0-pre-civil-war.1",
+      "pack_version": "0.3.0-post-reconstruction-42-79.1",
       "files": [
         "people_pre_civil_war.json",
         "congress_001.json",
@@ -67,10 +67,49 @@
         "congress_038.json",
         "congress_039.json",
         "congress_040.json",
-        "congress_041.json"
+        "congress_041.json",
+        "people_post_reconstruction.json",
+        "congress_042.json",
+        "congress_043.json",
+        "congress_044.json",
+        "congress_045.json",
+        "congress_046.json",
+        "congress_047.json",
+        "congress_048.json",
+        "congress_049.json",
+        "congress_050.json",
+        "congress_051.json",
+        "congress_052.json",
+        "congress_053.json",
+        "congress_054.json",
+        "congress_055.json",
+        "congress_056.json",
+        "congress_057.json",
+        "congress_058.json",
+        "congress_059.json",
+        "congress_060.json",
+        "congress_061.json",
+        "congress_062.json",
+        "congress_063.json",
+        "congress_064.json",
+        "congress_065.json",
+        "congress_066.json",
+        "congress_067.json",
+        "congress_068.json",
+        "congress_069.json",
+        "congress_070.json",
+        "congress_071.json",
+        "congress_072.json",
+        "congress_073.json",
+        "congress_074.json",
+        "congress_075.json",
+        "congress_076.json",
+        "congress_077.json",
+        "congress_078.json",
+        "congress_079.json"
       ],
-      "description": "U.S. House holder reference slices: operator gold congresses 1-41 (pre-Civil War 1-35 plus Civil War 36-41)."
+      "description": "U.S. House holder reference slices: operator gold congresses 1-79 (pre-Civil War 1-35, Civil War 36-41, post-Reconstruction 42-79)."
     }
   ],
-  "notes": "Adds certified pre-Civil War operator gold (congresses 1-35) to the existing Civil War 36-41 pack. Policy A gold-vacant guardrails unchanged for 37th AL/AR, 38th FL/LA, 40th MS."
+  "notes": "Adds operator gold post-Reconstruction House holders (congresses 42-79) to the existing 1-41 pack. Policy A gold-vacant guardrails unchanged for 37th AL/AR, 38th FL/LA, 40th MS."
 }

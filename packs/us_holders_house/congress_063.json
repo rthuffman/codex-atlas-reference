@@ -1,0 +1,4160 @@
+{
+  "slice_format_version": 1,
+  "slice_id": "us_holders_house_congress_063",
+  "pack_id": "us_holders_house",
+  "congress": 63,
+  "corpus_as_of": "2026-06-19",
+  "requires_seeds_bundle_version": "0.3.11",
+  "reference_bundle_version": "0.3.0-post-reconstruction-42-79.1",
+  "record_count": 455,
+  "notes": "Operator gold House HoldsSeat edges for 63rd Congress.",
+  "records": [
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884f360a5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258742d75ca",
+      "office_key": "63|AL|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887356a00"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588db7ed9f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876dff852",
+      "office_key": "63|AL|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d5fa56b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588da0377a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a6dca2d",
+      "office_key": "63|AL|3",
+      "DoE": "1914-05-25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588245802e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ce23cd5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a6dca2d",
+      "office_key": "63|AL|3",
+      "DoB": "1914-06-29",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588698cc37"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a2c7a54",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d6c2a53",
+      "office_key": "63|AL|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883e1cea5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f9c3c7f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c64235f",
+      "office_key": "63|AL|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880b2b544"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b2f9a55",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c6badb2",
+      "office_key": "63|AL|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a18d1f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b6abaab",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ad99a10",
+      "office_key": "63|AL|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258825365fa"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258898a3992",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587922c589",
+      "office_key": "63|AL|8",
+      "DoE": "1914-03-31",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bdf5d1a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d6165d5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587922c589",
+      "office_key": "63|AL|8",
+      "DoB": "1914-05-11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fdc4f51"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a86b412",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d15ce0e",
+      "office_key": "63|AL|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881c88b9c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AL-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588648fe69",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258756b528c",
+      "office_key": "63|AL|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ea394b5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884fb02be",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587219ec19",
+      "office_key": "63|AR|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588863b02b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fdbb6af",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587de92b56",
+      "office_key": "63|AR|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886ce2f94"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889564324",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e4fe467",
+      "office_key": "63|AR|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258846acf01"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d9121c5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e05a5dd",
+      "office_key": "63|AR|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588da60161"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a6d2c59",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a8c8d3f",
+      "office_key": "63|AR|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cd7af7c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258874f9628",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258777de210",
+      "office_key": "63|AR|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880141f83"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AR-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cc5dfdd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587520cb18",
+      "office_key": "63|AR|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886281a39"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from AZ-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ebc3515",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ba66f1c",
+      "office_key": "63|AZ|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881acbb0a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cf55ddf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872011c1b",
+      "office_key": "63|CA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fedaef0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588352c921",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c84f86e",
+      "office_key": "63|CA|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258837d2af9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c6537ab",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587196e063",
+      "office_key": "63|CA|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882573e23"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258823d0023",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b165a10",
+      "office_key": "63|CA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258821e0440"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a8a0233",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ab57eee",
+      "office_key": "63|CA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258889a2830"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b4ad868",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587617ccaa",
+      "office_key": "63|CA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588297472f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883c8016e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a0f3987",
+      "office_key": "63|CA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886bac0a1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882108b22",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587805afbe",
+      "office_key": "63|CA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882bdcfe5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886f24f80",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587245d1fb",
+      "office_key": "63|CA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588770dc61"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258883d75dc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258766dafc5",
+      "office_key": "63|CA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881069228"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f89cdad",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587497ea68",
+      "office_key": "63|CA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886b08d32"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CO-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a887fc5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258795a7ccf",
+      "office_key": "63|CO|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882c4ea81"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CO-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f1a2173",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870ea6d1b",
+      "office_key": "63|CO|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cec1cf5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CO-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ec07180",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587de2dbc2",
+      "office_key": "63|CO|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258825e10c9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CO-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588893b809",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cb39eb8",
+      "office_key": "63|CO|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588630fbdc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CT-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888a16459",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a3a92ca",
+      "office_key": "63|CT|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880fd102b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CT-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cffd86e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258732f94ff",
+      "office_key": "63|CT|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880f74259"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CT-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588898603d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587eba7ceb",
+      "office_key": "63|CT|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d299b52"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CT-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ed2bae5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fc146fa",
+      "office_key": "63|CT|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d386579"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CT-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886b47829",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872ed168f",
+      "office_key": "63|CT|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588dd9545d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from DE-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bd78515",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ae9ece2",
+      "office_key": "63|DE|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f7e0289"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from FL-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588887b185",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870f41358",
+      "office_key": "63|FL|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f6bedf2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from FL-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588612d66f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587180849f",
+      "office_key": "63|FL|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c541456"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from FL-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a4ff991",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ed5e519",
+      "office_key": "63|FL|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ceb7368"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from FL-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881ae9e65",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873cfc8bb",
+      "office_key": "63|FL|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d477687"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258866b18fd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587db865e0",
+      "office_key": "63|GA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258877f62e8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886031e85",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258718c64cf",
+      "office_key": "63|GA|10",
+      "DoE": "1914-11-02",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a85aca"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d37e509",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258718c64cf",
+      "office_key": "63|GA|10",
+      "DoB": "1914-11-03",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b385f1d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883ef52d0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872f13b6d",
+      "office_key": "63|GA|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588579cda9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c340acf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877fdd695",
+      "office_key": "63|GA|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885e80c24"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885229f22",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c7064c7",
+      "office_key": "63|GA|2",
+      "DoE": "1913-09-25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c9b2f95"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c470391",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c7064c7",
+      "office_key": "63|GA|2",
+      "DoB": "1913-11-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258803c2fbc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888b23ae7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258768980d3",
+      "office_key": "63|GA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888d70b9c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258870bae4f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875be6bc1",
+      "office_key": "63|GA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f3c7d0c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258873daee7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873f776b0",
+      "office_key": "63|GA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884896b94"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258805d5917",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e41c816",
+      "office_key": "63|GA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884c179b7"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dd429b5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fb5084f",
+      "office_key": "63|GA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887e456bb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887228bb4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258736aeda0",
+      "office_key": "63|GA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f471507"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from GA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889a7b40b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587240c7b3",
+      "office_key": "63|GA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880458a3d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258896bb123",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873ae5fd0",
+      "office_key": "63|IA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ab00910"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885525126",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d734fa",
+      "office_key": "63|IA|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885b9cda7"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880b2ce1f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870f890bf",
+      "office_key": "63|IA|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e87f8bc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c4ef151",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258773717a1",
+      "office_key": "63|IA|2",
+      "DoE": "1913-12-22",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d9f9fac"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881f6ca4d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258773717a1",
+      "office_key": "63|IA|2",
+      "DoB": "1914-02-10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882775d0e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ef0bba5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878a23b7c",
+      "office_key": "63|IA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883c3bb06"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588239b676",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258763d3ad2",
+      "office_key": "63|IA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882885c6e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888f8f92c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ddabedc",
+      "office_key": "63|IA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887826a2c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889d4a9fd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258768cb4b6",
+      "office_key": "63|IA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b2a5d41"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887630e91",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876cd5334",
+      "office_key": "63|IA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b6e42da"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258852b585b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d553ff",
+      "office_key": "63|IA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588624e394"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884eaf65d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587efc3b3c",
+      "office_key": "63|IA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a29d73"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ID-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d546c01",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587347c0ac",
+      "office_key": "63|ID|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e3cc420"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ID-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889e9fe9e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cc46784",
+      "office_key": "63|ID|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e7e56e8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e822f68",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258717c35ba",
+      "office_key": "63|IL|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588052a32e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258861a6b22",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879715059",
+      "office_key": "63|IL|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588de13169"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ffe09ed",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258741d97b2",
+      "office_key": "63|IL|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889135eb0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ace5207",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258747b322f",
+      "office_key": "63|IL|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887bcaea9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258823354ea",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878667b5e",
+      "office_key": "63|IL|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881d0406e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258804a381c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b78a9e0",
+      "office_key": "63|IL|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258863ba73f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887a49fb1",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587076ee1a",
+      "office_key": "63|IL|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b876a51"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e8111e4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874a7436d",
+      "office_key": "63|IL|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588afbb2e2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-17, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d85479e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ae1bf74",
+      "office_key": "63|IL|17",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcaae4b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-18, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b719092",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874be3a4b",
+      "office_key": "63|IL|18",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258875dfb32"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-19, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258893a381a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f103418",
+      "office_key": "63|IL|19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588be1a9cd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885ea23a8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fa41822",
+      "office_key": "63|IL|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b9057f3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-20, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e405b31",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bdda6f5",
+      "office_key": "63|IL|20",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258867fc214"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-21, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588077634b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a52fc0a",
+      "office_key": "63|IL|21",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ad5ce93"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-22, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b775a43",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876fa763e",
+      "office_key": "63|IL|22",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a15229"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-23, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f467d50",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587243b707",
+      "office_key": "63|IL|23",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258862d7969"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-24, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258820a5943",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e05342a",
+      "office_key": "63|IL|24",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258837a6bce"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-25, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a8810fe",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879b75ce7",
+      "office_key": "63|IL|25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258832eba7c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c58a9e8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258769bd70f",
+      "office_key": "63|IL|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fc2583f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886cf69c1",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bae82d0",
+      "office_key": "63|IL|4",
+      "DoE": "1914-07-21",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882f7fa21"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588763498d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d7faea1",
+      "office_key": "63|IL|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588948744b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258829a8da4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587653b0f7",
+      "office_key": "63|IL|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588914c03b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258805d792b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587475dbf4",
+      "office_key": "63|IL|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b8e06b3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885e95e48",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c43a507",
+      "office_key": "63|IL|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887d65f7c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889a88ff5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874a218c6",
+      "office_key": "63|IL|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888525b4e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881d7d535",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c8a8413",
+      "office_key": "63|IL|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cdb3b41"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IL-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882db3972",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878db969c",
+      "office_key": "63|IL|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887fcf47d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a75602d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876bc1ece",
+      "office_key": "63|IN|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887d36647"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d783cea",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870a06549",
+      "office_key": "63|IN|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258820f9ed1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258809f49ba",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258731af03c",
+      "office_key": "63|IN|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588063b2a2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886b4ae5c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874c12f06",
+      "office_key": "63|IN|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b97fb52"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258860defc8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ad5156b",
+      "office_key": "63|IN|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d259266"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886259928",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258718f0d81",
+      "office_key": "63|IN|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889954008"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258825d655d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b72bde1",
+      "office_key": "63|IN|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258803a4948"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b6e8112",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a53ccf1",
+      "office_key": "63|IN|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bf6c969"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258815b0651",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e084a31",
+      "office_key": "63|IN|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ec5955f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588448d733",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d986154",
+      "office_key": "63|IN|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880dba9ac"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bfcf68e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e58e41f",
+      "office_key": "63|IN|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e5ac279"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ad42d03",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875befc26",
+      "office_key": "63|IN|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c967f2d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from IN-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ae8dc15",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bf0dc21",
+      "office_key": "63|IN|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ac14669"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887178a09",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879adeae4",
+      "office_key": "63|KS|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d015dc9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588187234a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875f84efd",
+      "office_key": "63|KS|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883ebb496"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889333364",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587da004be",
+      "office_key": "63|KS|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b09117c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881720623",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875c4a3c3",
+      "office_key": "63|KS|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882b19d3c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cefb935",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587edbc61a",
+      "office_key": "63|KS|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258826f3cc9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881b918f9",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587279ef84",
+      "office_key": "63|KS|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d86cc3d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258880b7d2b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587162f8c8",
+      "office_key": "63|KS|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d9815a9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KS-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258875b881d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a7f5a6c",
+      "office_key": "63|KS|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887b777fd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ee4d961",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258791fa7f9",
+      "office_key": "63|KY|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881996acf"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886b458c9",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879e04527",
+      "office_key": "63|KY|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e22f4fa"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889979a4a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873673c0a",
+      "office_key": "63|KY|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588588c176"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886011009",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587611bab4",
+      "office_key": "63|KY|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258811db372"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588401d330",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876ba754d",
+      "office_key": "63|KY|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258896736d8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ed92998",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872cd088c",
+      "office_key": "63|KY|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258859e18c8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588994dac3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870a75f2b",
+      "office_key": "63|KY|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c60cd21"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588750aca4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258731613d7",
+      "office_key": "63|KY|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a75b2f1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258804fc3ac",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258779e26cd",
+      "office_key": "63|KY|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c4e2884"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ee524ec",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bee903f",
+      "office_key": "63|KY|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888b87b57"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from KY-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258873e6b6a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872dc7868",
+      "office_key": "63|KY|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b26b163"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a805c74",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f6cdfb8",
+      "office_key": "63|LA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258897e56e1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d619b96",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587924a449",
+      "office_key": "63|LA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258825f7a6e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cae5373",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587736520b",
+      "office_key": "63|LA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258846115ef"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881caa182",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f3491be",
+      "office_key": "63|LA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ba6996e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d9e398c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587978999c",
+      "office_key": "63|LA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e2e5aad"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f4971f3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258708f96cb",
+      "office_key": "63|LA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880d7fbcd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881459035",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879d8a257",
+      "office_key": "63|LA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b162c58"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from LA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258896fc053",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258730056a3",
+      "office_key": "63|LA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880c12142"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588750e734",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a6de070",
+      "office_key": "63|MA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887eeeb0b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ac9e7f0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587792fb8c",
+      "office_key": "63|MA|10",
+      "DoE": "1914-09-28",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b873cda"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ea52bb3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258772caecf",
+      "office_key": "63|MA|11",
+      "DoE": "1914-08-15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c9e1158"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885d7e0c8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587799f5b0",
+      "office_key": "63|MA|12",
+      "DoE": "1914-02-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886897d04"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258877d54cc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587799f5b0",
+      "office_key": "63|MA|12",
+      "DoB": "1914-04-07",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258820d3cf3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f8e4dfb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870207f0d",
+      "office_key": "63|MA|13",
+      "DoE": "1913-03-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258869b473c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588679ea11",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870207f0d",
+      "office_key": "63|MA|13",
+      "DoB": "1913-04-15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588729cd8b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f845ac7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258754dc1b3",
+      "office_key": "63|MA|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889a4307d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882e19be4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879a660b9",
+      "office_key": "63|MA|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e173376"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258893d4ecb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878f37dbe",
+      "office_key": "63|MA|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f87ac13"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885470ae0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870e1ceb6",
+      "office_key": "63|MA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c83f27f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ebfdb93",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a510cdb",
+      "office_key": "63|MA|3",
+      "DoE": "1913-09-11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880b0e08e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b0fd6d7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a510cdb",
+      "office_key": "63|MA|3",
+      "DoB": "1913-11-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888c8e23b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588af42892",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258779fe267",
+      "office_key": "63|MA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888a3c8bb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588834f6a4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c2eb9ff",
+      "office_key": "63|MA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a6a6936"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d21e3fc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871b9c4cb",
+      "office_key": "63|MA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a313df"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ea9d796",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258718eabe1",
+      "office_key": "63|MA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a37c9d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258890bfff8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872cb553a",
+      "office_key": "63|MA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d075e95"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258853c44a6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587611eaa7",
+      "office_key": "63|MA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588560010a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258876dde6e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871d47dba",
+      "office_key": "63|MD|1",
+      "DoE": "1914-09-30",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588eb1ffe0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588519c5e0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871d47dba",
+      "office_key": "63|MD|1",
+      "DoB": "1914-11-03",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f4aa027"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d71787f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878eecb29",
+      "office_key": "63|MD|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880c7f865"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f344836",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258708d0352",
+      "office_key": "63|MD|3",
+      "DoE": "1913-05-31",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258834ff09f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884efea94",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258708d0352",
+      "office_key": "63|MD|3",
+      "DoB": "1913-11-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887acbf87"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f00fa75",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875b30ad1",
+      "office_key": "63|MD|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588646741d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d29c047",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587babc0ef",
+      "office_key": "63|MD|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588621781e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258800b3158",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d949b7d",
+      "office_key": "63|MD|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887dc132d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ME-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588816d766",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874e2c363",
+      "office_key": "63|ME|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e8f8095"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ME-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258833042db",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587df1c5d5",
+      "office_key": "63|ME|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bbece49"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ME-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258875a224e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872e1cccb",
+      "office_key": "63|ME|3",
+      "DoE": "1913-05-28",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588497b2ad"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ME-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884682d7d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872e1cccb",
+      "office_key": "63|ME|3",
+      "DoB": "1913-09-09",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fdf1aaf"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ME-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a438967",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587386307c",
+      "office_key": "63|ME|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d68fc3b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588209aed8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587900c102",
+      "office_key": "63|MI|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887b59dee"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887b87604",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587734d90b",
+      "office_key": "63|MI|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcb7f16"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c053d7a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ae76e75",
+      "office_key": "63|MI|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884ef9fa1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c127f8c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876f6bb30",
+      "office_key": "63|MI|12",
+      "DoE": "1913-05-16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d4894e0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886fa0d05",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876f6bb30",
+      "office_key": "63|MI|12",
+      "DoB": "1913-08-26",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a615b38"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fc85329",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d8d54a0",
+      "office_key": "63|MI|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e688b82"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588639e9f4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876754ba8",
+      "office_key": "63|MI|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888dd9745"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d098f08",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876d65bc5",
+      "office_key": "63|MI|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258847e00d0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cb408a1",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b8eef91",
+      "office_key": "63|MI|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258807bcccf"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886cc728b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d68fc7f",
+      "office_key": "63|MI|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a73cf02"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ab3ff82",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870b0188a",
+      "office_key": "63|MI|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258854d48ab"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588477b983",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875615c94",
+      "office_key": "63|MI|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e9bf5fd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ae29697",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258771901bc",
+      "office_key": "63|MI|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883af39e1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MI-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b6ebfff",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f5d1b54",
+      "office_key": "63|MI|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887ceb21a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f1c29bc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587842239e",
+      "office_key": "63|MN|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ff9b7c4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b3bf9bf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875cc2081",
+      "office_key": "63|MN|2",
+      "DoE": "1915-01-06",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d7de17f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588037050b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587220d160",
+      "office_key": "63|MN|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f11ce02"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588aa1ff4b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587869bcbc",
+      "office_key": "63|MN|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888109553"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588301fe2d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877498c3b",
+      "office_key": "63|MN|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258838b2c5f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ca018e0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587657293f",
+      "office_key": "63|MN|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881cc810f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886313e2a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bb3e90a",
+      "office_key": "63|MN|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fc89a41"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b07c31e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874a497a6",
+      "office_key": "63|MN|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887d6b5c0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d275f9c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876015ab6",
+      "office_key": "63|MN|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b0e5691"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MN-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258822ed345",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a51eaac",
+      "office_key": "63|MN|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884a8812b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882c132a0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587be761c0",
+      "office_key": "63|MO|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f89e796"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e62ba2e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258743d0840",
+      "office_key": "63|MO|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886ee50e5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888b2fbe0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879ce10ec",
+      "office_key": "63|MO|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b3f241e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fdbfd4e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c1f1359",
+      "office_key": "63|MO|12",
+      "DoE": "1914-06-19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885e34423"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881a0df20",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c1f1359",
+      "office_key": "63|MO|12",
+      "DoB": "1914-06-19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d5d8326"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258866f9274",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ab079f0",
+      "office_key": "63|MO|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c9acf05"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bc8c4e6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587db6953e",
+      "office_key": "63|MO|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b71dae1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a8ba8a8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ed4d59e",
+      "office_key": "63|MO|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f215416"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ffc5c0d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e4c9fc3",
+      "office_key": "63|MO|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886ed4669"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258803f2d83",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fe8f291",
+      "office_key": "63|MO|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bfc0223"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889ab6330",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587414fc27",
+      "office_key": "63|MO|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258827034b3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880d700aa",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258758433a4",
+      "office_key": "63|MO|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a30c813"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588de23b63",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d92a3a",
+      "office_key": "63|MO|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588480db9b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258875305f9",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874b84379",
+      "office_key": "63|MO|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588048aace"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c565205",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258797272cd",
+      "office_key": "63|MO|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d98191b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e86c159",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fb2a80d",
+      "office_key": "63|MO|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880161b08"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MO-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f40f0bf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870d59491",
+      "office_key": "63|MO|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258827cfc01"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887d0d8aa",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871439739",
+      "office_key": "63|MS|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884c9301f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886224a98",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873902ef4",
+      "office_key": "63|MS|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c9cec0d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258879ad811",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c0b6bff",
+      "office_key": "63|MS|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e914bdf"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bbe64eb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587dd4e212",
+      "office_key": "63|MS|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a638b5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888049db7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d0083b",
+      "office_key": "63|MS|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889037530"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258828fc7b4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258793ac6e2",
+      "office_key": "63|MS|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258889562b0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588de38f54",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587190a9fe",
+      "office_key": "63|MS|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588724b3ea"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MS-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258824652ef",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258751077cb",
+      "office_key": "63|MS|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f626db3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MT-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f098b14",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879b3ab58",
+      "office_key": "63|MT|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886173599"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MT-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bfd8a2d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e0f0a89",
+      "office_key": "63|MT|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881484a41"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f94da6f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879ce4903",
+      "office_key": "63|NC|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c44b717"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f17e9d4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b04620b",
+      "office_key": "63|NC|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588af09bef"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588766a394",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587eaa6141",
+      "office_key": "63|NC|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c92a772"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886f9b2e2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258701cec81",
+      "office_key": "63|NC|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c51a2cd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889bd5269",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cda9d95",
+      "office_key": "63|NC|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258887d9388"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e1922bf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258764e36c5",
+      "office_key": "63|NC|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886976305"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588233ee28",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879ba545d",
+      "office_key": "63|NC|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588618acbd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258839a86aa",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877411dfc",
+      "office_key": "63|NC|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258886f0e52"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f830622",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876b47a64",
+      "office_key": "63|NC|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f68364d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NC-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881aa3ae6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a5a5a89",
+      "office_key": "63|NC|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889b81fe3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ND-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258802479fd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587da3fbf2",
+      "office_key": "63|ND|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888dc6496"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ND-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258821c4442",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876e96854",
+      "office_key": "63|ND|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882817499"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from ND-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588437ce6a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258758cbcd4",
+      "office_key": "63|ND|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888b55727"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cd5831d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258704a5c6b",
+      "office_key": "63|NE|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258833ae592"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b60542e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c869162",
+      "office_key": "63|NE|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889c44d30"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258879558fa",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587252c8a7",
+      "office_key": "63|NE|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cceecb8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fea1d3b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873ed3083",
+      "office_key": "63|NE|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a813945"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588295a625",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b14862f",
+      "office_key": "63|NE|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882c37a18"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NE-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883bbca5b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f0fd703",
+      "office_key": "63|NE|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a5dd8d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NH-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e69821e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f7a1988",
+      "office_key": "63|NH|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ffb12d6"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NH-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588aff2f60",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870a30918",
+      "office_key": "63|NH|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ef8ee57"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c6e5081",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877136b92",
+      "office_key": "63|NJ|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258827d2643"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885a8d553",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878c07fc7",
+      "office_key": "63|NJ|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bbb4e40"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588446bf3b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b8391d9",
+      "office_key": "63|NJ|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e6767a1"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258867e27d8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876119804",
+      "office_key": "63|NJ|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845ffe45"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a82896f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258755a6254",
+      "office_key": "63|NJ|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588965ed95"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844a52c5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258708ced8c",
+      "office_key": "63|NJ|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b6a3310"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588832dd49",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258749da65e",
+      "office_key": "63|NJ|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258886c671d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bbc984d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d88ee01",
+      "office_key": "63|NJ|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889c37f0a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e9a68c2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e6ef84e",
+      "office_key": "63|NJ|6",
+      "DoE": "1913-05-05",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bb5d038"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588706b9cc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e6ef84e",
+      "office_key": "63|NJ|6",
+      "DoB": "1913-07-22",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258885ddb94"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258863f325e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258775f7b2c",
+      "office_key": "63|NJ|7",
+      "DoE": "1914-02-05",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ddca639"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258879c7a80",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258775f7b2c",
+      "office_key": "63|NJ|7",
+      "DoB": "1914-04-07",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883a37f6e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fe888cd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cd1f19f",
+      "office_key": "63|NJ|8",
+      "DoE": "1915-02-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a46097e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588597fb91",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cae8622",
+      "office_key": "63|NJ|9",
+      "DoE": "1914-10-03",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883c446d2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NJ-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588088d980",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cae8622",
+      "office_key": "63|NJ|9",
+      "DoB": "1914-12-01",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258844302b4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NM-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f06c054",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879b1ad41",
+      "office_key": "63|NM|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882902c7c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NV-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588202e772",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878aa9a6e",
+      "office_key": "63|NV|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258883175b0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f9134c6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872e68756",
+      "office_key": "63|NY|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882b88782"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882acbb20",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871cce082",
+      "office_key": "63|NY|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889ce6dde"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b6647b0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258788988fb",
+      "office_key": "63|NY|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881fd7848"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d9e35df",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587916a6a4",
+      "office_key": "63|NY|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258894f757c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588eb318f4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258762b42d5",
+      "office_key": "63|NY|13",
+      "DoE": "1913-08-31",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ab6f859"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c8a4917",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258762b42d5",
+      "office_key": "63|NY|13",
+      "DoB": "1913-11-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cebc879"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d5d778a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258748830f3",
+      "office_key": "63|NY|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588845d23f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887803a20",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877559100",
+      "office_key": "63|NY|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b69b210"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844a93d8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258704ed7da",
+      "office_key": "63|NY|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588838d0d5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-17, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a88b922",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587313da87",
+      "office_key": "63|NY|17",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588be3aa16"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-18, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258889f2632",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587068c09e",
+      "office_key": "63|NY|18",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885f58d64"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-19, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f63fe29",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870480dd3",
+      "office_key": "63|NY|19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a1e728e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588550a284",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874628941",
+      "office_key": "63|NY|2",
+      "DoE": "1914-12-31",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a377eb4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-20, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fed3e60",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d034860",
+      "office_key": "63|NY|20",
+      "DoE": "1913-09-01",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b71987b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-20, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258814f4b91",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d034860",
+      "office_key": "63|NY|20",
+      "DoB": "1913-11-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588071dedb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-21, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889b4b171",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cc17723",
+      "office_key": "63|NY|21",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888573659"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-22, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885b6ccff",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587215ecb3",
+      "office_key": "63|NY|22",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fe66cc2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-23, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588443d467",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f83c5f7",
+      "office_key": "63|NY|23",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588269f3b3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-24, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880566b50",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878c3eebd",
+      "office_key": "63|NY|24",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258883e3d26"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-25, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a5caa3c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879c903f6",
+      "office_key": "63|NY|25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b1dce04"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-26, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588849636a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879b82ed5",
+      "office_key": "63|NY|26",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884a7aa43"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-27, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fbaf9db",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c69b752",
+      "office_key": "63|NY|27",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882d232d8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-28, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588695ef14",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874f444ec",
+      "office_key": "63|NY|28",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fec59e0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-29, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e0962bb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587904a3c7",
+      "office_key": "63|NY|29",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c6e94ec"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fb193b8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d04bdad",
+      "office_key": "63|NY|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883a26002"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-30, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258807011a4",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872e70682",
+      "office_key": "63|NY|30",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258814739bc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-31, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888990efc",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870db2462",
+      "office_key": "63|NY|31",
+      "DoE": "1914-12-04",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a688649"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-32, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881d1cb5a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c41c9b7",
+      "office_key": "63|NY|32",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258897c10cd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-33, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d6c69d8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258718d9871",
+      "office_key": "63|NY|33",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258829ccfac"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-34, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b402433",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587734fd5f",
+      "office_key": "63|NY|34",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884f4a267"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-35, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258819e4278",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587dcc455e",
+      "office_key": "63|NY|35",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884360242"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-36, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b32f6b5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874516a6b",
+      "office_key": "63|NY|36",
+      "DoE": "1914-12-10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887740ff0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-37, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e2c667a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874e3915f",
+      "office_key": "63|NY|37",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258813d7312"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-38, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588993ee76",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879e3906c",
+      "office_key": "63|NY|38",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258813b2b61"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-39, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880c2d96d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870a85e83",
+      "office_key": "63|NY|39",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258875b286a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f92e1ee",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870b1d01c",
+      "office_key": "63|NY|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258889391cd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-40, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258842a8deb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587603f125",
+      "office_key": "63|NY|40",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258880fab3a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-41, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887b79938",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878d7b9f4",
+      "office_key": "63|NY|41",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b0d8506"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-42, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b2fe63f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587abe2c86",
+      "office_key": "63|NY|42",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ad3ea1f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-43, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882734add",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f490e5e",
+      "office_key": "63|NY|43",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888c6fb06"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888cce459",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e9ee5d6",
+      "office_key": "63|NY|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886f34566"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258837c46c0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258754462bb",
+      "office_key": "63|NY|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e1cdeda"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258845209eb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875069aca",
+      "office_key": "63|NY|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bbaac69"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887e2eb25",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879f0376b",
+      "office_key": "63|NY|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f7a4cc0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from NY-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f7a7f48",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fdc8603",
+      "office_key": "63|NY|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fc53e6b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884c28cff",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a9e608e",
+      "office_key": "63|OH|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588949cc9f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f2b1e34",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258720c5d3e",
+      "office_key": "63|OH|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258834ac0fc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ac35c23",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d2d480",
+      "office_key": "63|OH|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258809c4bb5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258810a68c6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fd44522",
+      "office_key": "63|OH|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588498b870"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881bff61b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b8bbd48",
+      "office_key": "63|OH|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e2e9716"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d97249e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875ed13e1",
+      "office_key": "63|OH|14",
+      "DoE": "1914-07-23",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889d226d0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588841aa2a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870838eb9",
+      "office_key": "63|OH|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258875567d0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b147eb7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e337fdb",
+      "office_key": "63|OH|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a264a2c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-17, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c2323cf",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587108aae4",
+      "office_key": "63|OH|17",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588115747f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-18, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fb32f65",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c109381",
+      "office_key": "63|OH|18",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886d1cb17"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-19, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588efea04e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258710a44e8",
+      "office_key": "63|OH|19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588036dfb0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883eeeca7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873d300fd",
+      "office_key": "63|OH|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883094109"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-20, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881194efb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872ca5cd1",
+      "office_key": "63|OH|20",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c90c776"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-21, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258804b0ce3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587213cd50",
+      "office_key": "63|OH|21",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881d67c81"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886ab6788",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870e35c07",
+      "office_key": "63|OH|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258874519f8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588685c2e1",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e6b7bed",
+      "office_key": "63|OH|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588330d80d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880de1a06",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c69d6db",
+      "office_key": "63|OH|5",
+      "DoE": "1915-01-09",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883a2ac0b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bd02bfd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d8e0f49",
+      "office_key": "63|OH|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886e4194c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b00bf69",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878d3181d",
+      "office_key": "63|OH|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884633d24"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258855d83fa",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d9afbab",
+      "office_key": "63|OH|8",
+      "DoE": "1915-01-09",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889c6dc57"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588943c8f0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d80058c",
+      "office_key": "63|OH|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fd14581"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OH-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588acea1db",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874b74e1d",
+      "office_key": "63|OH|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d542efb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c919f10",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f3addbb",
+      "office_key": "63|OK|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a5d2976"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588474e85c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873a149e1",
+      "office_key": "63|OK|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588660d05d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588843d2dd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258752fa74f",
+      "office_key": "63|OK|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882118dce"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588289fa00",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874b0af7d",
+      "office_key": "63|OK|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884033fb9"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c6c1ea6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d174bc8",
+      "office_key": "63|OK|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e00f080"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880c4af4a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a9663cb",
+      "office_key": "63|OK|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258828cd4f2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cba9c7a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c77a9b0",
+      "office_key": "63|OK|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588856ab1e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OK-C, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588320fc4b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e401b20",
+      "office_key": "63|OK|C",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588704a0d5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OR-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258840507a0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875418f6b",
+      "office_key": "63|OR|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f90188a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OR-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588efdfd20",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587009c27c",
+      "office_key": "63|OR|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b95f26b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from OR-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b93008d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872651a61",
+      "office_key": "63|OR|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258828a4439"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588633a4a6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a81f86d",
+      "office_key": "63|PA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880cdb51b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e3ccae2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ce4b495",
+      "office_key": "63|PA|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f18a544"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885946cc2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258763bed4c",
+      "office_key": "63|PA|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c51c777"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c92d033",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ab0815f",
+      "office_key": "63|PA|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a5a0350"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888f38bfe",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e544ffc",
+      "office_key": "63|PA|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258865e45c2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ab1723a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b53abf7",
+      "office_key": "63|PA|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258894282d5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258877d7b50",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587709e0ed",
+      "office_key": "63|PA|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bb69a1b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588536b5f0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587319dfe3",
+      "office_key": "63|PA|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cf80c64"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-17, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886d8f712",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258755f6d55",
+      "office_key": "63|PA|17",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845d35eb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-18, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d666d34",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ffeb16f",
+      "office_key": "63|PA|18",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258839cc9a3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-19, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886159e2a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871783f65",
+      "office_key": "63|PA|19",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588989ccd2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887b9692b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587533258b",
+      "office_key": "63|PA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e3efddc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-20, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885297677",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bf8ad85",
+      "office_key": "63|PA|20",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a287e22"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-21, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889452439",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bc9f1b9",
+      "office_key": "63|PA|21",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b8e4ddd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-22, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880118879",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587386543c",
+      "office_key": "63|PA|22",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884cac13f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-23, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e13481f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258700dfebc",
+      "office_key": "63|PA|23",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588551ee0b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-24, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258892df56a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871512bff",
+      "office_key": "63|PA|24",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588dcb5c15"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-25, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886e22407",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a4d58ec",
+      "office_key": "63|PA|25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a07c963"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-26, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ed62bf5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258708ccbab",
+      "office_key": "63|PA|26",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881607b60"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-27, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258818f4ad3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cf2bfc9",
+      "office_key": "63|PA|27",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885bdb5ad"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-28, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258870c1ef1",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f035a52",
+      "office_key": "63|PA|28",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258846c5573"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-29, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dd41eac",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878df8e66",
+      "office_key": "63|PA|29",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886a9f81b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d76caad",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d798cb0",
+      "office_key": "63|PA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588613c259"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-30, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c892541",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872d54221",
+      "office_key": "63|PA|30",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f76883d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-31, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588534539f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879957099",
+      "office_key": "63|PA|31",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588630d493"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-32, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258802e7cbd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872232673",
+      "office_key": "63|PA|32",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ed5b042"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888aca28a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587043b73a",
+      "office_key": "63|PA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e502671"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c39fc2f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872b459f7",
+      "office_key": "63|PA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b8e68ae"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882058bf0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ef515ad",
+      "office_key": "63|PA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887da54f4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882c8c823",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b890499",
+      "office_key": "63|PA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d109549"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588159fe53",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879b9eabd",
+      "office_key": "63|PA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885491774"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889db4cca",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cf07391",
+      "office_key": "63|PA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d778af2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fdbc2cb",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587473a28c",
+      "office_key": "63|PA|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258816f7681"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e636f24",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e2273d2",
+      "office_key": "63|PA|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c1a0b79"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-C, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bc8383e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ecff00b",
+      "office_key": "63|PA|C",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884eba497"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from PA-D, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cabc86b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587235067a",
+      "office_key": "63|PA|D",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d0062b8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from RI-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889f7ea8f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e23befe",
+      "office_key": "63|RI|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258818d2174"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from RI-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880f69420",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876ffb35c",
+      "office_key": "63|RI|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588253a8ad"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from RI-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887106804",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258783b9c58",
+      "office_key": "63|RI|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588528b216"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889ed01f2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d64049e",
+      "office_key": "63|SC|1",
+      "DoB": "1913-04-29",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b62f53b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882e06bd8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587602a93b",
+      "office_key": "63|SC|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880b46462"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885478e50",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cbfd3b6",
+      "office_key": "63|SC|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885ab37b4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882f4db4e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258776f5088",
+      "office_key": "63|SC|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258843e174a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588793ce17",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e9339e1",
+      "office_key": "63|SC|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880ae78b2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fe3e325",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877cfc102",
+      "office_key": "63|SC|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258800ed000"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SC-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d508efe",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ee9f81d",
+      "office_key": "63|SC|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886357065"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SD-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258871c6575",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587489eb3f",
+      "office_key": "63|SD|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258830be665"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SD-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588485366b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258781bcd6b",
+      "office_key": "63|SD|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889e06be4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from SD-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258840bfe47",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b90d964",
+      "office_key": "63|SD|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884b66195"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b9b2832",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b3ce95b",
+      "office_key": "63|TN|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588171d9a2"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e70ccb5",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876c69a44",
+      "office_key": "63|TN|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a7f1ff"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889b9b022",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258758457ee",
+      "office_key": "63|TN|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886c25bce"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884563f80",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258752f0821",
+      "office_key": "63|TN|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258846dd456"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f69b330",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587709dcdc",
+      "office_key": "63|TN|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a95708d"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a75f389",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872d29289",
+      "office_key": "63|TN|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a3f75fb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588492acee",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b9999ec",
+      "office_key": "63|TN|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881f8c25c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588554019f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878618dbe",
+      "office_key": "63|TN|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e46bd23"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f1aa4bd",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587692704d",
+      "office_key": "63|TN|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cd0108a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TN-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887d9f15c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875ee7bbc",
+      "office_key": "63|TN|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887710c69"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258802204a7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878589c2b",
+      "office_key": "63|TX|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887b665c4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881d865d0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f7f3579",
+      "office_key": "63|TX|10",
+      "DoE": "1913-03-06",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882dacbbc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cd01ed6",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f7f3579",
+      "office_key": "63|TX|10",
+      "DoB": "1913-04-15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcef7a3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588766c654",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879f295b1",
+      "office_key": "63|TX|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e2232a4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-12, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e61b1a8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870e657f5",
+      "office_key": "63|TX|12",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b9d4f14"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-13, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884fe7a49",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875c3d863",
+      "office_key": "63|TX|13",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588eb79201"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-14, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258891f9f3f",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879725f9a",
+      "office_key": "63|TX|14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a02ee7f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-15, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889236e10",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871382815",
+      "office_key": "63|TX|15",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588549ea04"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-16, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884b49e5e",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875075349",
+      "office_key": "63|TX|16",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f5d7d53"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886fec35c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c9df933",
+      "office_key": "63|TX|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b064251"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258869943e3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873906f31",
+      "office_key": "63|TX|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e453862"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886dff943",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587db19350",
+      "office_key": "63|TX|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ea2bee5"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883ac9475",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c5073e0",
+      "office_key": "63|TX|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880c896cb"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883408522",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bf7f054",
+      "office_key": "63|TX|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e68759e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888e97339",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587936675c",
+      "office_key": "63|TX|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588acecfd3"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f9e7850",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b79919f",
+      "office_key": "63|TX|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258880042d7"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888a24dec",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258744c854c",
+      "office_key": "63|TX|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d8c9cab"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881fc1f7b",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f81a055",
+      "office_key": "63|TX|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e5bdf95"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from TX-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588881546a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587302c0a6",
+      "office_key": "63|TX|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d12c591"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from UT-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886816f45",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258796a00a1",
+      "office_key": "63|UT|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d55689a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from UT-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ad28379",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258778b8fe2",
+      "office_key": "63|UT|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d60ace0"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887a854c3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873e7d653",
+      "office_key": "63|VA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888b26c57"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258864f3c5d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587decb497",
+      "office_key": "63|VA|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889d20240"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258886952ec",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872a05c2c",
+      "office_key": "63|VA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cc0ae49"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885090be2",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d165b8f",
+      "office_key": "63|VA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258871ac5e8"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883684371",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d4bc439",
+      "office_key": "63|VA|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588474b046"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ab62199",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258716c1aad",
+      "office_key": "63|VA|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887187e8f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880590489",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875559d51",
+      "office_key": "63|VA|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d49ee93"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588905977a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258793bc4d0",
+      "office_key": "63|VA|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882c9234e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fedf79d",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258752c7b37",
+      "office_key": "63|VA|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588592376a"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VA-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881eb74c7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873b3bfc3",
+      "office_key": "63|VA|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cb1a211"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VT-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880dfa320",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258792a91c1",
+      "office_key": "63|VT|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c1d0948"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from VT-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588437c1c8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258787e6e3d",
+      "office_key": "63|VT|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887804c60"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WA-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a667a50",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f1a9b87",
+      "office_key": "63|WA|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c1d47cc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WA-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258880e0a47",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c856177",
+      "office_key": "63|WA|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884cbf03f"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WA-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888a27451",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871fc09fa",
+      "office_key": "63|WA|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fd9868b"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WA-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f6e1d81",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d37fdb6",
+      "office_key": "63|WA|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258885d895c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WA-B, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882e80414",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587747148e",
+      "office_key": "63|WA|B",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882db125c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258878d9e86",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587580b96a",
+      "office_key": "63|WI|1",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884a78b1c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-10, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881f02877",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a605d41",
+      "office_key": "63|WI|10",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c27de87"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-11, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f1f8cd7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872476608",
+      "office_key": "63|WI|11",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e7bb830"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887d178ef",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cd3a9e3",
+      "office_key": "63|WI|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884ed5db4"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dec4c00",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587735da2f",
+      "office_key": "63|WI|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258857c6746"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258893bd635",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b248abc",
+      "office_key": "63|WI|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258863724f7"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881dfa9ed",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878ded015",
+      "office_key": "63|WI|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fe6eedd"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-6, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588383f7b3",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587de34cca",
+      "office_key": "63|WI|6",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f68e291"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-7, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886dfb8c9",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d5ba32c",
+      "office_key": "63|WI|7",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcd0f72"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-8, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888430e08",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587612e6fd",
+      "office_key": "63|WI|8",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a7127ab"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WI-9, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588458b618",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876eb0810",
+      "office_key": "63|WI|9",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881486a4e"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588797e2d0",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587783ff76",
+      "office_key": "63|WV|1",
+      "DoE": "1913-08-29",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ce20d58"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-1, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882fcf17c",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587783ff76",
+      "office_key": "63|WV|1",
+      "DoB": "1913-10-14",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880f59ddc"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-2, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588520220a",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f45ef50",
+      "office_key": "63|WV|2",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a3a4925"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-3, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b692732",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879a7c66f",
+      "office_key": "63|WV|3",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588622459c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-4, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a6da977",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587462ef83",
+      "office_key": "63|WV|4",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886eccd2c"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-5, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258812078ed",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f068812",
+      "office_key": "63|WV|5",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258815ea846"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WV-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258833bf2b7",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877e16346",
+      "office_key": "63|WV|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a87f217"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from WY-A, 63rd Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880452cc8",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258729d9977",
+      "office_key": "63|WY|A",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258897d5b23"
+    }
+  ]
+}
