@@ -1,10 +1,10 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.1.0-civil-war.5",
+  "bundle_version": "0.2.0-pre-civil-war.1",
   "requires_seeds_bundle_version": "0.3.11",
   "requires_atlas_schema_version": "1.2.0",
-  "release_tier": "patch",
-  "corpus_as_of": "2026-06-15",
+  "release_tier": "minor",
+  "corpus_as_of": "2026-06-19",
   "gold_vacant_house_office_keys": [
     "37|AL|1",
     "37|AL|2",
@@ -23,8 +23,44 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.1.0-civil-war.4",
+      "pack_version": "0.2.0-pre-civil-war.1",
       "files": [
+        "people_pre_civil_war.json",
+        "congress_001.json",
+        "congress_002.json",
+        "congress_003.json",
+        "congress_004.json",
+        "congress_005.json",
+        "congress_006.json",
+        "congress_007.json",
+        "congress_008.json",
+        "congress_009.json",
+        "congress_010.json",
+        "congress_011.json",
+        "congress_012.json",
+        "congress_013.json",
+        "congress_014.json",
+        "congress_015.json",
+        "congress_016.json",
+        "congress_017.json",
+        "congress_018.json",
+        "congress_019.json",
+        "congress_020.json",
+        "congress_021.json",
+        "congress_022.json",
+        "congress_023.json",
+        "congress_024.json",
+        "congress_025.json",
+        "congress_026.json",
+        "congress_027.json",
+        "congress_028.json",
+        "congress_029.json",
+        "congress_030.json",
+        "congress_031.json",
+        "congress_032.json",
+        "congress_033.json",
+        "congress_034.json",
+        "congress_035.json",
         "people_civil_war.json",
         "congress_036.json",
         "congress_037.json",
@@ -33,8 +69,8 @@
         "congress_040.json",
         "congress_041.json"
       ],
-      "description": "Civil War House holder candidate slices, Congresses 36-41, reconciled against operator gold."
+      "description": "U.S. House holder reference slices: operator gold congresses 1-41 (pre-Civil War 1-35 plus Civil War 36-41)."
     }
   ],
-  "notes": "Manifest-only patch on 0.1.0-civil-war.4: requires_seeds_bundle_version 0.3.11 for seeds v0.3.11 suite pin. Slice payloads unchanged; Policy A gold-vacant guardrails unchanged."
+  "notes": "Adds certified pre-Civil War operator gold (congresses 1-35) to the existing Civil War 36-41 pack. Policy A gold-vacant guardrails unchanged for 37th AL/AR, 38th FL/LA, 40th MS."
 }
