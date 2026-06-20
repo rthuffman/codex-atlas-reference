@@ -48,8 +48,4 @@ python -m codex_reference_ci.pipeline --all
 | `--build` | Write `dist/codex-atlas-reference-<version>.tar.gz` + `.sha256` sidecar |
 | `--release TAG` | Build (unless assets exist) and upload to GitHub Releases |
 
-Default (no flags): `--validate`, `--test`, `--build`.
-
-## After you release a new bundle
-
-Update the suite pin in **athena-codex** (`codex/docs/atlas_bundles.yaml` → `generate-codex-ddls --commit`) using the SHA256 printed by `codex-reference-build-bundle` or the `.sha256` sidecar.
+**Suite pin sync:** `codex-reference-release` updates **athena-codex** `codex/docs/atlas_bundles.yaml` and regenerated pin JSON automatically after upload. Opt out with `--no-sync-suite-pin` or `CODEX_REFERENCE_SKIP_SUITE_PIN_SYNC=1`. Local builds can pass `--sync-suite-pin` (add `--dry-run-suite-pin` to validate only). Standalone: `codex-suite-pin-sync` from athena-codex `deploy/tools`.

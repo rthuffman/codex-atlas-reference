@@ -11,6 +11,11 @@ from pathlib import Path
 
 from codex_reference_ci.manifest import bundle_version, file_sha256, iter_archive_members
 from codex_reference_ci.repo import find_repo_root
+from codex_reference_ci.suite_pin_sync import sync_suite_pin as _sync_suite_pin
+
+
+def bundle_sidecar_path(archive: Path) -> Path:
+    return archive.with_name(f"{archive.name}.sha256")
 
 
 def _tar_add_bytes(tar: tarfile.TarFile, arcname: str, data: bytes) -> None:
@@ -39,7 +44,7 @@ def build_bundle(*, repo_root: Path | None = None, output: Path | None = None) -
             _tar_add_bytes(tar, arcname, src.read_bytes())
 
     digest = hashlib.sha256(archive.read_bytes()).hexdigest()
-    sidecar = archive.with_suffix(".tar.gz.sha256")
+    sidecar = bundle_sidecar_path(archive)
     sidecar.write_text(f"{digest}  {archive.name}\n", encoding="utf-8")
     return archive, sidecar
 
@@ -52,10 +57,30 @@ def main() -> int:
         default=None,
         help="Output archive path (default: dist/codex-atlas-reference-<bundle_version>.tar.gz)",
     )
+    parser.add_argument(
+        "--sync-suite-pin",
+        action="store_true",
+        help="Update athena-codex atlas_bundles.yaml and generated pin JSON from this build",
+    )
+    parser.add_argument(
+        "--dry-run-suite-pin",
+        action="store_true",
+        help="Validate suite pin sync without writing athena-codex files",
+    )
     args = parser.parse_args()
     archive, sidecar = build_bundle(output=args.output)
     print(f"Wrote {archive}")
     print(f"Wrote {sidecar} ({sidecar.read_text(encoding='utf-8').strip()})")
+    if args.sync_suite_pin:
+        root = find_repo_root()
+        _sync_suite_pin(
+            "reference",
+            archive=archive,
+            sidecar=sidecar,
+            bundle_version_value=bundle_version(root),
+            dry_run=args.dry_run_suite_pin,
+            repo_root=root,
+        )
     return 0
 
 

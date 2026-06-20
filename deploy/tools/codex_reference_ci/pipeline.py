@@ -37,6 +37,16 @@ def main() -> int:
     parser.add_argument("--release", metavar="TAG", default=None, help="Upload GitHub release for TAG")
     parser.add_argument("--draft-release", action="store_true", help="Draft GitHub release")
     parser.add_argument(
+        "--sync-suite-pin",
+        action="store_true",
+        help="After build, update athena-codex atlas_bundles.yaml and generated pin JSON",
+    )
+    parser.add_argument(
+        "--dry-run-suite-pin",
+        action="store_true",
+        help="Validate suite pin sync without writing athena-codex files",
+    )
+    parser.add_argument(
         "--all",
         action="store_true",
         help="validate + test + build (default when no flags)",
@@ -65,9 +75,26 @@ def main() -> int:
     if do_build:
         archive, sidecar = build_bundle(repo_root=repo_root)
         print(f"build: {archive.name} sha256={sidecar.read_text(encoding='utf-8').strip()}")
+        if args.sync_suite_pin:
+            from codex_reference_ci.manifest import bundle_version
+            from codex_reference_ci.suite_pin_sync import sync_suite_pin as _sync_suite_pin
+
+            _sync_suite_pin(
+                "reference",
+                archive=archive,
+                sidecar=sidecar,
+                bundle_version_value=bundle_version(repo_root),
+                dry_run=args.dry_run_suite_pin,
+                repo_root=repo_root,
+            )
 
     if args.release:
-        release_bundle(tag=args.release, repo_root=repo_root, draft=args.draft_release)
+        release_bundle(
+            tag=args.release,
+            repo_root=repo_root,
+            draft=args.draft_release,
+            dry_run_suite_pin=args.dry_run_suite_pin,
+        )
 
     return 0
 
