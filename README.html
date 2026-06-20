@@ -41,10 +41,27 @@ packs/
 python -m pytest tests -q
 </code></pre>
 
+  <h2>CI / releases</h2>
+  <p>
+    CI lives in <code>deploy/tools/</code> (<code>codex-reference-ci</code> package), mirroring
+    <code>codex-atlas-seeds</code>. Use the <strong>athena-codex</strong> virtualenv so Python version
+    and dependencies stay aligned when switching repos.
+  </p>
+  <pre><code>python scripts/with_athena_venv.py codex-reference-ci --all
+python scripts/with_athena_venv.py codex-reference-release --tag v0.3.1-holders-1-79.1
+</code></pre>
+  <p>
+    <strong>Tag push</strong> (<code>v*</code>) runs validate + build in GitHub Actions, then uploads
+    <code>dist/*.tar.gz</code> to GitHub Releases. After publishing, bump the suite pin in
+    <strong>athena-codex</strong> (<code>codex/docs/atlas_bundles.yaml</code> →
+    <code>generate-codex-ddls --commit</code>) with the SHA256 from the build sidecar.
+  </p>
+
   <h2>Current Status</h2>
   <p>
-    Scaffold only. Do not publish generated holder slices until the Prospectus export has been reconciled
-    against gold YAML, Bioguide aliases, and the compatible <code>codex-atlas-seeds</code> bundle.
+    Holder slices for U.S. House congresses 1–79 are published under release
+    <code>v0.3.1-holders-1-79.1</code>. Use <code>codex-reference-ci</code> for validate/build/release
+    on future bundle bumps.
   </p>
 </body>
 </html>

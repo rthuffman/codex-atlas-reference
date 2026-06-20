@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "codex-reference-ci"
+version = "0.1.0"
+description = "CI validate, bundle build, and GitHub Release upload for codex-atlas-reference"
+readme = "README.md"
+requires-python = ">=3.14.3,<3.15"
+dependencies = [
+  "requests>=2.31.0,<3",
+]
+
+[project.scripts]
+codex-reference-validate = "codex_reference_ci.validate:main"
+codex-reference-build-bundle = "codex_reference_ci.build_bundle:main"
+codex-reference-release = "codex_reference_ci.release:main"
+codex-reference-ci = "codex_reference_ci.pipeline:main"
+codex-reference-run-unit-tests = "codex_reference_ci.unit_tests:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["codex_reference_ci"]
+
+[tool.pytest.ini_options]
+testpaths = ["../../tests"]
+pythonpath = ["."]
