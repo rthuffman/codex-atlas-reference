@@ -3,2083 +3,2074 @@
   "slice_id": "us_holders_house_congress_020",
   "pack_id": "us_holders_house",
   "congress": 20,
-  "corpus_as_of": "2026-06-19",
+  "corpus_as_of": "2026-06-24",
   "requires_seeds_bundle_version": "0.3.11",
-  "reference_bundle_version": "0.2.0-pre-civil-war.1",
-  "record_count": 227,
+  "reference_bundle_version": "0.2.0-pre-civil-war.3",
+  "record_count": 226,
   "notes": "Operator gold House HoldsSeat edges for 20th Congress.",
   "records": [
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from AL-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b186684",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258823863c5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870bb0ca6",
       "office_key": "20|AL|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258895743ea"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e3889f1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from AL-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ac00993",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ff5e14f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d5d981a",
       "office_key": "20|AL|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889a8ed09"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588abec344"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from AL-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885e4bdbc",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588963cb60",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ed9e90b",
       "office_key": "20|AL|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f696641"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889040ef0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258819a44c1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588990c6e0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d35df82",
       "office_key": "20|CT|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883b6c135"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880e175fb"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588574ecda",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c0ed16a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d9717a4",
       "office_key": "20|CT|B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c8c9aa6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bf3b52f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588756ed7a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cc8336d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878f2e60f",
       "office_key": "20|CT|C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884b0e8f6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888dfcd51"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-D, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258810ac1b2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f849c86",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875fcfb8f",
       "office_key": "20|CT|D",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258838d127d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a3efd45"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-E, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881817276",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e24ba28",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873d265f7",
       "office_key": "20|CT|E",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845d837a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258802bf2da"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from CT-F, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887a25f29",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258864825bb",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258714b2c24",
       "office_key": "20|CT|F",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588763c94e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880e48355"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from DE-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258800e1807",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886677e25",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d00382",
       "office_key": "20|DE|A",
       "DoB": "1827-10-02",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258843fc773"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588155f815"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b145eb6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886f95ca3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d5c6063",
       "office_key": "20|GA|1",
       "DoB": "1827-10-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882a611cc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fb8ad40"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883fac5ad",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588259e2df",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b74848a",
       "office_key": "20|GA|2",
       "DoE": "1827-11-07",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ceb4201"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f2a6a0f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884154be0",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ed8d5ac",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b74848a",
       "office_key": "20|GA|2",
       "DoB": "1827-11-17",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f2b5cda"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a7a1cf6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258893df6b1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884723d3b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875d78f0a",
       "office_key": "20|GA|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881138126"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886f629f4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588017ed72",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ecd23ec",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b9e2db5",
       "office_key": "20|GA|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258879ce41d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258861ba6d6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bcf18c5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e991e88",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587144b649",
       "office_key": "20|GA|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588977a01c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b0cc90f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258885dbbc4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588636f822",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871f50a11",
       "office_key": "20|GA|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f2ca371"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258833ea93e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from GA-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881f0a899",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258832f78b0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879c37ccc",
       "office_key": "20|GA|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884444715"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588566a39f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from IL-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588533ffd5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882ef9674",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b0c848d",
       "office_key": "20|IL|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886eb6fcc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a3fa2b8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from IN-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887452952",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258841b7e67",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f0ec532",
       "office_key": "20|IN|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f9ac781"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588349e392"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from IN-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588535658d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885ce7d41",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258744914ab",
       "office_key": "20|IN|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b1a7b72"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258835d6c93"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from IN-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884f17a0e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258837a5ed6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cfab5e3",
       "office_key": "20|IN|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258856d88eb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bde2ffc"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258888ab51a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258815c145a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e5eafb6",
       "office_key": "20|KY|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588519c0c7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886cd79ea"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258853c3200",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258834fc07b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f23a1bd",
       "office_key": "20|KY|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258824c0312"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a54d2b9"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588db08efe",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258813893be",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870fc955f",
       "office_key": "20|KY|11",
       "DoE": "1827-09-20",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258885c50c1"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c5eee15"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880eac8b5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588baed34b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870fc955f",
       "office_key": "20|KY|11",
       "DoB": "1827-11-05",
       "DoE": "1827-11-07",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588191117b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588db1f506"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881e2c742",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ed9d5a6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870fc955f",
       "office_key": "20|KY|11",
       "DoB": "1827-12-22",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258810452b6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b203225"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887bf8165",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258887b558c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879305d77",
       "office_key": "20|KY|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588411d9bb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258812c07e0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258823c604a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588eef1ee2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587190311e",
       "office_key": "20|KY|2",
       "DoE": "1828-06-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887efee7e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d5cbf96"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888c90a74",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c7edb5e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587190311e",
       "office_key": "20|KY|2",
       "DoB": "1828-12-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258863505be"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258849f3465"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888196bd6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bc9e1a9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587855dc61",
       "office_key": "20|KY|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885f17655"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258882ec023"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258891c87d8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883086b5f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a4aae1b",
       "office_key": "20|KY|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588895d931"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588719f50f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881d1caee",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258883161a0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258753d6603",
       "office_key": "20|KY|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883f8a7d8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884989b66"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b0b8c6c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258836e2eb1",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e4ed2cb",
       "office_key": "20|KY|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f4fb8fe"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258820fdfe6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d63b103",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885360c53",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587378ffbc",
       "office_key": "20|KY|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884b8e6ae"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a7a5862"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884e5a086",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889a60bf9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878d4142f",
       "office_key": "20|KY|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888cb792d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b64eb74"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from KY-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ecc5ac4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b7fa706",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a8c9157",
       "office_key": "20|KY|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258836ab084"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e502523"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from LA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b5daa58",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e5a05a5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a0059bf",
       "office_key": "20|LA|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588611ebe7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888f4fbd4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from LA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dbff4fb",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886c93d73",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879f5a3f3",
       "office_key": "20|LA|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588286c8bc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889546b47"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from LA-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a705ee6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ea73916",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d0e79aa",
       "office_key": "20|LA|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cdf1ea1"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885a0d44a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c888324",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588158ef63",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587389ee40",
       "office_key": "20|MA|1",
       "DoE": "1827-05-30",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f70f637"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258840e5648"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258884308db",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886407a7d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587389ee40",
       "office_key": "20|MA|1",
       "DoB": "1827-07-23",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884c50bc3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588798808d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bf4b287",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883b30b77",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587038e309",
       "office_key": "20|MA|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258889d3a40"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b8c9d68"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588edb431e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258831d3a48",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a6f5f99",
       "office_key": "20|MA|11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258812ea4d4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f96758c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884aece55",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dadfc47",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587798cd04",
       "office_key": "20|MA|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588db03733"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258874b8a6e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588be05f60",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885a3383e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879ced5d7",
       "office_key": "20|MA|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588efa1d97"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887492d4f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258817743f5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888eeda35",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871b3dfb8",
       "office_key": "20|MA|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258840ee0f7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258860c6aca"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883b647e6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c3a0638",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871cd6814",
       "office_key": "20|MA|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885798a30"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886695bc9"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588983c546",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258897106b2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b858f08",
       "office_key": "20|MA|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f686524"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588dd08401"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886cea72c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588339ffca",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258727e2f7d",
       "office_key": "20|MA|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887347032"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c26cbd5"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258882cce8e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881bd2766",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258765028ca",
       "office_key": "20|MA|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881c207f2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887734194"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ec06568",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fb616d3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d45e9e6",
       "office_key": "20|MA|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588820da83"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881818a02"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588514ec53",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883500cd3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a3956ea",
       "office_key": "20|MA|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a2a6dcf"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588de9781c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MA-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888e498fd",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258840c4023",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258744d3754",
       "office_key": "20|MA|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f6a28c9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887b93dff"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888b385a8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882189f47",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258739526c2",
       "office_key": "20|MD|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845b373a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588493eea4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b282c3a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887f0e84f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e730f5d",
       "office_key": "20|MD|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880a99f76"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887db8fbc"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588de4c323",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887cff84b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874a23f70",
       "office_key": "20|MD|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258843ed9f0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d350f9e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884833871",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258882549b2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874770c8a",
       "office_key": "20|MD|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d5817fd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884a70b82"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-5-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a45bfc6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bc93be0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e11be5d",
       "office_key": "20|MD|5-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588418d5a9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588051b9ee"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-5-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588474d8d7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258841f1936",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c7c0591",
       "office_key": "20|MD|5-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b137f96"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888e5cee1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588976da94",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885737856",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587aeb6c05",
       "office_key": "20|MD|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883eb73f2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880b78aa3"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fb179d0",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a962527",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870921072",
       "office_key": "20|MD|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258809e790a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f69b715"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887f13076",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f126670",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870597638",
       "office_key": "20|MD|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883640d07"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883ad96b3"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258837037b7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887759f9a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258721d04f4",
       "office_key": "20|ME|1",
       "DoE": "1827-07-02",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c4cb9b2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d334870"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588accacc6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258859dfb6b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258721d04f4",
       "office_key": "20|ME|1",
       "DoB": "1827-09-10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258839eaa9e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588990f146"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887605668",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258810909c5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873dcc9e0",
       "office_key": "20|ME|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887b85c6c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888d00223"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880bfffee",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886945463",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f91cdfd",
       "office_key": "20|ME|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588da8b7eb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882843e50"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ff81064",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b7a1ef6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cee648f",
       "office_key": "20|ME|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884456cc4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881984621"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258840955cf",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886e17679",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877410d78",
       "office_key": "20|ME|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880c75820"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d36fd71"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588950f847",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258897eafdc",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c2b8ba6",
       "office_key": "20|ME|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258811b6805"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588584bbc6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from ME-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258849b4d6d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258859c6b6e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587521a08a",
       "office_key": "20|ME|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588828ccec"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882d096fd"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MO-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258863773d0",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588737d54b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587398b37e",
       "office_key": "20|MO|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258856769f5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881aea1bf"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MS-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881fae5b8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258854fc492",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a0dccf7",
       "office_key": "20|MS|A",
       "DoE": "1828-09-12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a1fb575"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588871ca8a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MS-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588527035c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881c394af",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a0dccf7",
       "office_key": "20|MS|A",
       "DoB": "1828-10-21",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888850dfd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881ca081b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cc1eba9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588755b677",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587eba75e4",
       "office_key": "20|NC|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588759f16f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882c34e26"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c49c836",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883f922d1",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258716b6bc8",
       "office_key": "20|NC|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258885467b0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ea174b4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888258fca",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588434166f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871213b2e",
       "office_key": "20|NC|11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258834c657a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258825b7779"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588350df5a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258852d8a09",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cf7e253",
       "office_key": "20|NC|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d34eef8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588666ad06"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889398a07",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887ef1c0c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f86ffb1",
       "office_key": "20|NC|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d8a34f2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258837fc3c4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844105ed",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cc5df45",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258774b1c0e",
       "office_key": "20|NC|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ba53ef3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258802958b9"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880ba9375",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887081f22",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a9054b5",
       "office_key": "20|NC|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b9dabce"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889014b6c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258824bfe9b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ba65555",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879c5885a",
       "office_key": "20|NC|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588999628b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258854765a7"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258825b28da",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fee0ff3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587200b4b4",
       "office_key": "20|NC|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cdd4f1c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c70440d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888c4cf73",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f3db0e2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258757e8bfe",
       "office_key": "20|NC|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881f876a8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258840ab934"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258836d8b44",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cff9f0a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d376cb1",
       "office_key": "20|NC|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881e687cf"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889f14380"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887a0562b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883977d0d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587310c9f1",
       "office_key": "20|NC|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588df5b957"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258891ddbd1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NC-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588aac71b8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887077b0a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d704a0b",
       "office_key": "20|NC|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885e3f258"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588218259e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258822783ee",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e19a8d8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878c4bba3",
       "office_key": "20|NH|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258840c0446"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b71b719"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258871df812",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b8b23e4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874e811df",
       "office_key": "20|NH|B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ecf32e9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886b1a510"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258849c2c7a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889e09f3c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258714a5021",
       "office_key": "20|NH|C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880bc8b4a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258843494dd"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-D, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881e04668",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881f26854",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cc38775",
       "office_key": "20|NH|D",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258807a35e5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fa020c8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-E, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258826a0c3b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588441c5f6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a3f8ab1",
       "office_key": "20|NH|E",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258884d41b8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e310367"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NH-F, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886ddab77",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258834230e1",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879ce04ad",
       "office_key": "20|NH|F",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588498577f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883bdddd1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d6b81a5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588427b164",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ab6d4aa",
       "office_key": "20|NJ|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258859ff2c3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a296086"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880efd679",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f1c769f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879d61fe1",
       "office_key": "20|NJ|B",
       "DoE": "1828-01-14",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258849186eb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881fddcea"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c1c3cff",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883964fcf",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879d61fe1",
       "office_key": "20|NJ|B",
       "DoB": "1828-12-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d33049c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cf1f1c0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a8fa296",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885437422",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877ee74e5",
       "office_key": "20|NJ|C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888781849"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d8d1942"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-D, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d0dce4c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bc67ecb",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ffb4aac",
       "office_key": "20|NJ|D",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889b1e8bd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883c1d289"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-E, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ad00605",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a2f82c4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587eb26a17",
       "office_key": "20|NJ|E",
       "DoE": "1828-07-23",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258810c9028"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887d79f8e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-E, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588056755b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844678b8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587eb26a17",
       "office_key": "20|NJ|E",
       "DoB": "1828-12-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e909027"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258879cca58"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NJ-F, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258827db6ab",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dd2c6c7",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258769ad3fc",
       "office_key": "20|NJ|F",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881ad31cb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882b70b3e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588977d7da",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fdb2229",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875fa4917",
       "office_key": "20|NY|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cd4c27b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258887fd762"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258802057f4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884eae4f5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587aebf0c1",
       "office_key": "20|NY|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845e4024"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258814bc7e2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588815d947",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b217f52",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879151851",
       "office_key": "20|NY|11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885a66a2c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ec55e9b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258856d0850",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d5b2056",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587126eca4",
       "office_key": "20|NY|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bb9e55e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258817e49e0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885a34ef4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882bbe59c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258741682f1",
       "office_key": "20|NY|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887622583"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882b8f64b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-14, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ce6298a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588caccc12",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258745be5ee",
       "office_key": "20|NY|14",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885828bc0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258802e43fc"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-15, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e239803",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258843cc6a5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ed662ad",
       "office_key": "20|NY|15",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258812e69fc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ad75489"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-16, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d2ef431",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b9cea94",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873ae0c75",
       "office_key": "20|NY|16",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888e33f3a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888ed9f10"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-17, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888ad52f6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f0f0bde",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ce535fb",
       "office_key": "20|NY|17",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c10b163"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588775a199"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-18, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b15d3ea",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c7e9941",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258744a8315",
       "office_key": "20|NY|18",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588399d795"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588785bfc2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-19, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588aca0a28",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b53be24",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258754381d0",
       "office_key": "20|NY|19",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884eac9e4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258857b571d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a573ed8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a7577a0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876c8aba7",
       "office_key": "20|NY|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588eed8ac0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588628839d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-20-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885f2d4e1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a6480f5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a7b13ba",
       "office_key": "20|NY|20-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845b9894"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588684eb93"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-20-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c19ce80",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b4c30dd",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d728e63",
       "office_key": "20|NY|20-B",
       "DoE": "1829-02-16",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c5e4ebe"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588555fc15"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-21, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d831530",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f571658",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879d5ebf8",
       "office_key": "20|NY|21",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881813d31"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888df9352"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-22, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b72200b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f23c9b5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879237391",
       "office_key": "20|NY|22",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258825fa2a5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588700da12"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-23, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887ef246a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588aaccd7b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875eb3cd2",
       "office_key": "20|NY|23",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882704071"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258886ab2b3"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-24, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258854cd598",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258840f170b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587fd79a1a",
       "office_key": "20|NY|24",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e8157cd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588da63d90"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-25, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258809b21ba",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881d246fc",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bd5f2ae",
       "office_key": "20|NY|25",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cb3eb0a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884799718"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-26-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c2fe1fa",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258836c5c44",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a9cae31",
       "office_key": "20|NY|26-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258875cc5e2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258826926a3"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-26-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b8090a5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bde5b85",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878e35916",
       "office_key": "20|NY|26-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258889939d8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845811b7"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-27, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880178c02",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d736af4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d3cfb02",
       "office_key": "20|NY|27",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c81c979"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881465d33"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-28, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258835dd018",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258848f317c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725878c3daed",
       "office_key": "20|NY|28",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882ff1172"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845676ec"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-29, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588952980f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882ff127c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258741c7ed2",
       "office_key": "20|NY|29",
       "DoE": "1827-05-02",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889802779"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fcc6d0c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-29, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d818bfb",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887c08ea6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258741c7ed2",
       "office_key": "20|NY|29",
       "DoB": "1827-11-05",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881465cdd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886eeda78"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-3-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258825ccd8d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258822b36f6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874c9ace1",
       "office_key": "20|NY|3-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884209f4f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588acf459b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-3-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882b119e3",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883d26cbf",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d88dc50",
       "office_key": "20|NY|3-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588752d483"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e97f98d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-3-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258848df160",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882f24a31",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587debc8fb",
       "office_key": "20|NY|3-C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258827b97bd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888a96c60"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-30, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a9428f7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258836f9a63",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258719bc639",
       "office_key": "20|NY|30",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ac99bc6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880e0d0fb"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883de129c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588992279f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587900a8b2",
       "office_key": "20|NY|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f947aef"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588787ee19"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258899a97d2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cab7dd4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e861722",
       "office_key": "20|NY|5",
       "DoE": "1828-05-09",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b2a8030"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885f1f86a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f426d61",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884f9dd37",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e861722",
       "office_key": "20|NY|5",
       "DoB": "1828-11-05",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588302d417"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887fdaaf5"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cbee79f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b883608",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f43b033",
       "office_key": "20|NY|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588236dc05"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a7b3d1d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d48f990",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588092ad73",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875b63603",
       "office_key": "20|NY|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884e85b12"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588477e81d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fbcb06e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883823634",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870a2fc18",
       "office_key": "20|NY|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e1c9ed1"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882dfa593"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from NY-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885eb0dc2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c81f304",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258794603fb",
       "office_key": "20|NY|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d09a327"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a2b5a1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258815bb1cc",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880bc9d64",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587528ad70",
       "office_key": "20|OH|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889b570cf"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c7e9ddb"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887b1ac89",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880cc4c87",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875ca8540",
       "office_key": "20|OH|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258893ab16c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882ede337"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588896a873",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588572ab11",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873a7e382",
       "office_key": "20|OH|11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884429504"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884c8ab04"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881cd1f20",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258826532b9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871843adf",
       "office_key": "20|OH|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fd761fc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885d2602b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cd639c2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880c3c392",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c10b10b",
       "office_key": "20|OH|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880f05a50"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258886f7482"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-14, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588de41848",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c777a5a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876d67ef5",
       "office_key": "20|OH|14",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880a7e4d2"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258844b261c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c512a05",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258835bf520",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258764d1bb2",
       "office_key": "20|OH|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588700e96a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258896e3fe0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885526852",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b43527d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587625418b",
       "office_key": "20|OH|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884dfac2a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d33669b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884bd5499",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258879e2d47",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258762aea4c",
       "office_key": "20|OH|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a72344b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258872300ae"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f879eb7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f255401",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a5ed1e2",
       "office_key": "20|OH|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588584340e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ae6ae79"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881014890",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884e1a98c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d4630dc",
       "office_key": "20|OH|6",
       "DoE": "1828-10-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c892b1d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884709708"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fb0669a",
-      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d4630dc",
-      "office_key": "20|OH|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588aad6725"
-    },
-    {
-      "EdgeType": "HoldsSeat",
-      "Sticker": "Rep. from OH-6, 20th Congress",
-      "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bf7e006",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888e037c8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d4630dc",
       "office_key": "20|OH|6",
       "DoB": "1828-12-19",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881861bf4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ad942f6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258898f8b71",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884642221",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258728b1e81",
       "office_key": "20|OH|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258886cab59"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886dac3a2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d9cc214",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258845b1583",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875a876ed",
       "office_key": "20|OH|8",
       "DoE": "1827-06-06",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258842ed9b4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d5c5da1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889ab61f3",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e3c337f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875a876ed",
       "office_key": "20|OH|8",
       "DoB": "1827-10-09",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e30d401"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258819dff23"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from OH-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fc50ab1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588895fce8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a7ad92c",
       "office_key": "20|OH|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588001cb60"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258803eef3c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dfec998",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ef31547",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cf9478f",
       "office_key": "20|PA|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258871fa791"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258867a8358"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882643091",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258854bc533",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258721e645e",
       "office_key": "20|PA|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f03707e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588151f993"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-11-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884d44a7d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886b4422b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587096621c",
       "office_key": "20|PA|11-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c63c2ef"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883f4bd44"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-11-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a2af127",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887f7d478",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875d08a86",
       "office_key": "20|PA|11-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880cd6084"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258899e96e7"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588db5dd58",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258889a7fb2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876147386",
       "office_key": "20|PA|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258856c779c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ef782ec"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588268304f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588baf710f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587667c695",
       "office_key": "20|PA|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889c6d8a6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f067c6c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-14, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258898c54e2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887fefd61",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587422f485",
       "office_key": "20|PA|14",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883828053"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880b91ea1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-15, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258858cb78c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886020e6c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876092ac9",
       "office_key": "20|PA|15",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588728a456"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883337388"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-16-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588402a069",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588af849d3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587ebd9b48",
       "office_key": "20|PA|16-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f707392"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e82c9a1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-16-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882ec9aa3",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c660bb8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258727afdc9",
       "office_key": "20|PA|16-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258844e2f14"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588db56417"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-17, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885b7b47c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ad1402d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587df3a354",
       "office_key": "20|PA|17",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883d0d1b6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588702f129"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-18, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e686f9b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f48949d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874d969ca",
       "office_key": "20|PA|18",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b350fca"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883e7cb7f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258800565a0",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884700a9f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872bd73af",
       "office_key": "20|PA|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588029f8ff"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e9853db"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588426281b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b7a23cd",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258702128b9",
       "office_key": "20|PA|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258806e2885"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258888db5b8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-4-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c675de9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258886761e3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587196b523",
       "office_key": "20|PA|4-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f8765c1"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885d57c07"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-4-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c168786",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588744e38b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877ef6cf7",
       "office_key": "20|PA|4-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887934a3b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887110882"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-4-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dc78d15",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884b72a64",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874db65c6",
       "office_key": "20|PA|4-C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcd1007"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882cb6440"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884811e51",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258804036b7",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d2dac5c",
       "office_key": "20|PA|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ee136a7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258892e7957"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bf9be68",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588454d774",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870352cd9",
       "office_key": "20|PA|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a733ebc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e1d120f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-7-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588179f391",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885b8b75f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587500ae76",
       "office_key": "20|PA|7-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258891f3a15"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e7e4450"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-7-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588de38b82",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c53abf3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b942c3d",
       "office_key": "20|PA|7-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c25bd7f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588132d8e1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-8-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588244c3be",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844aa3e6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258755406f2",
       "office_key": "20|PA|8-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e44d632"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588dbf38e7"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-8-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258841679b8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258897ca2f1",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872df9ace",
       "office_key": "20|PA|8-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cb234f9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882f3eb85"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-9-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258820d82b5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588299a615",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587aa62573",
       "office_key": "20|PA|9-A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588dd4bb6c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f224a1f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-9-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888b423c5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f431cd9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e713da1",
       "office_key": "20|PA|9-B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d26936c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b18fb75"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from PA-9-C, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588da75c5e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f0a0081",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258789f2e2f",
       "office_key": "20|PA|9-C",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fdd5d8e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c9ea480"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from RI-A, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885ceaca9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258803d5f12",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587c293a70",
       "office_key": "20|RI|A",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cccd778"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887c812af"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from RI-B, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258892be302",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588853d9e9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725876ce160b",
       "office_key": "20|RI|B",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884b3cae8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258845237ec"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588db90a76",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258855f1f81",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f918d2d",
       "office_key": "20|SC|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725888b120fc"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588856d9c0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c977826",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d99d0b9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871f1979b",
       "office_key": "20|SC|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258857ff109"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cfc82fc"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b4a4548",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588173c357",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875adcd8d",
       "office_key": "20|SC|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588919a465"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a81b72"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d803042",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883e259e8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a7c024c",
       "office_key": "20|SC|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f8fbaef"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884d988d8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888541b5f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885df5afa",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875be9e2a",
       "office_key": "20|SC|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885d826bb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588530f87c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885b12a0f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887076f88",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b9b2942",
       "office_key": "20|SC|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884cbd718"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258893c3d83"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880d283e6",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e9c204b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873275248",
       "office_key": "20|SC|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e37e12e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e7a9132"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886c20605",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588abf5982",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587d4d2084",
       "office_key": "20|SC|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258844b05b7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588d21dd07"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from SC-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588288a4e7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883692016",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258721027b9",
       "office_key": "20|SC|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588af5d8aa"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588804d4f5"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a9bcc58",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888353368",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587bc208a8",
       "office_key": "20|TN|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886e6fdab"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588aee2510"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e991700",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588844a93c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725872aad8e1",
       "office_key": "20|TN|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f52164c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ac091fb"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b21ff46",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f526898",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874e473bd",
       "office_key": "20|TN|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588774863e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881fee7c2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588f522123",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bbc7565",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f06b74c",
       "office_key": "20|TN|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588246e642"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c7997d8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880ee809e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258806b7e56",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877eb2642",
       "office_key": "20|TN|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f286a2c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588119ee63"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a994b91",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d692b36",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725877e753cd",
       "office_key": "20|TN|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a1e78b5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cf75d1a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588e811d31",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882efb6c4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725870cc3dac",
       "office_key": "20|TN|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886ce05d8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882f9b3e5"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588bf56888",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883b95645",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587efd90f5",
       "office_key": "20|TN|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258843acbce"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e996d6a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from TN-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258837c4db9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889778edc",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a5d2e0f",
       "office_key": "20|TN|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880d12ff9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258874e04b2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882251c24",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881ece151",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b33a42f",
       "office_key": "20|VA|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c1fa433"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884068749"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-10, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b1046ed",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889ed02cf",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f0ce4d2",
       "office_key": "20|VA|10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588095a021"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885758b2a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-11, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885d3157a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884cb6fd0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a29b410",
       "office_key": "20|VA|11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258890141d4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b249217"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-12, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258824fdff2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588214669c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874e5c02c",
       "office_key": "20|VA|12",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886590df3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883372d84"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-13, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588d12c559",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588da68972",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258785dd38a",
       "office_key": "20|VA|13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881a71c08"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258800cfcb8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-14, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258833a2a29",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ea50586",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a91a7ad",
       "office_key": "20|VA|14",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a74299a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588133c674"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-15, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884819a17",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725886fc8fb3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e43bbe4",
       "office_key": "20|VA|15",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725886d235a0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258849a05e9"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-16, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258866d6cd5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725882a304be",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b8f2989",
       "office_key": "20|VA|16",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588438b52d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882e2ad6a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-17, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887938407",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588533be0f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587e2b74b8",
       "office_key": "20|VA|17",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bf41041"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588911971c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-18, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885ca56bc",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725885fc4d38",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587cd02486",
       "office_key": "20|VA|18",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881f3a561"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588cc60679"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-19, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258813c8bc3",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880bef784",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725873376ec9",
       "office_key": "20|VA|19",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258860c1dd4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725887edd92a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884441cbd",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881e74733",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258759228ea",
       "office_key": "20|VA|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885a78c6c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588a71d5bd"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-20, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881f0a899",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725880dacf65",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587599632d",
       "office_key": "20|VA|20",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b95cd9e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725883351c71"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-21, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588891db6a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881e4e15d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587dcb7732",
       "office_key": "20|VA|21",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588747f9e7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725889b29a2d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-22, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725888199bd8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588969c180",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258778984a9",
       "office_key": "20|VA|22",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bbc01a1"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bb6c76a"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588674e057",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887fd027e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258715b5b6f",
       "office_key": "20|VA|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588be72aab"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725880c8c1e4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b7d57c7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588ebf6a9a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871fd0917",
       "office_key": "20|VA|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725885bb7894"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588136a183"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725881a0faa4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588a66ee70",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587585c764",
       "office_key": "20|VA|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258865063b0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e32e9a8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-6, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588dc87142",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b32454b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587f445eb4",
       "office_key": "20|VA|6",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588da2dd72"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588fb74b54"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-7, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588738c2fa",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725884f95d28",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b9c2ac1",
       "office_key": "20|VA|7",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725882bc1324"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588ccaf0fb"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-8, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588c83e4a1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588cdd485c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258727efa5a",
       "office_key": "20|VA|8",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b4c1d46"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725881c2e370"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VA-9, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b4ae718",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258855dae37",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258767b8b31",
       "office_key": "20|VA|9",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258884bc326"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258833cc5f1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VT-1, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588889262d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588592db20",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874b69399",
       "office_key": "20|VT|1",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c3ea2cd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588e2b4a99"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VT-2, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588fa240fa",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725889c17175",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587a44207f",
       "office_key": "20|VT|2",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258807506ab"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b5b9d0d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VT-3, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588380b9ae",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883770747",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725875147f30",
       "office_key": "20|VT|3",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588f333a6d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588b854da2"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VT-4, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258872ab91f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725883b07886",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725874751d93",
       "office_key": "20|VT|4",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588c3d189f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588577ba01"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from VT-5, 20th Congress",
       "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258842f8cf1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-7258844dc751",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587b4212d5",
       "office_key": "20|VT|5",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-725884a82447"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588eaa2523"
     }
   ]
 }

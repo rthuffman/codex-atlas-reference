@@ -1,0 +1,23 @@
+{
+  "slice_format_version": 1,
+  "slice_id": "us_holders_house_congress_119",
+  "pack_id": "us_holders_house",
+  "congress": 119,
+  "corpus_as_of": "2026-06-25",
+  "requires_seeds_bundle_version": "0.3.11",
+  "reference_bundle_version": "0.2.0-post-reconstruction-mesh.1",
+  "record_count": 1,
+  "notes": "Operator gold House HoldsSeat edges for 119th Congress.",
+  "records": [
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from CA-12, 119th Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588460d635",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-72587285ddca",
+      "office_key": "119|CA|12",
+      "DoB": "2025-01-03",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258876cc8ee"
+    }
+  ]
+}

@@ -13,7 +13,7 @@ from typing import Any
 import requests
 
 from codex_reference_ci.build_bundle import build_bundle, bundle_sidecar_path
-from codex_reference_ci.manifest import bundle_version, file_sha256
+from codex_reference_ci.manifest import bundle_version, file_sha256, load_bundle_manifest
 from codex_reference_ci.repo import find_repo_root
 from codex_reference_ci.suite_pin_sync import sync_suite_pin as _sync_suite_pin
 
