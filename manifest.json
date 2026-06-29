@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.3.2-holders-1-119.2",
+  "bundle_version": "0.3.2-holders-1-119.3",
   "requires_seeds_bundle_version": "0.3.16",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "patch",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.3.2-holders-1-119.2",
+      "pack_version": "0.3.2-holders-1-119.3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -152,5 +152,5 @@
       "description": "U.S. House holder reference slices: operator gold congresses 1-119 (pre-Civil War 1-35, Civil War 36-41, post-Reconstruction certified 42-79, post-Reconstruction mesh 80-119)."
     }
   ],
-  "notes": "Patch release: manifest requires_seeds_bundle_version 0.3.16 for suite pin alignment. Holder slice JSON unchanged from 0.3.2-holders-1-119.1."
+  "notes": "Patch 119.3: fix 25th MD plural district — remove invalid 25|MD|4 HoldsSeat; move Kennedy succession to 25|MD|4-B per operator gold. Requires seeds 0.3.16."
 }

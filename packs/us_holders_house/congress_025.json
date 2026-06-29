@@ -601,16 +601,6 @@
     },
     {
       "EdgeType": "HoldsSeat",
-      "Sticker": "Rep. from MD-4, 25th Congress",
-      "Blurb": "Operator gold House holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b5e5c77",
-      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725871b23960",
-      "office_key": "25|MD|4",
-      "DoB": "1838-04-25",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258807854df"
-    },
-    {
-      "EdgeType": "HoldsSeat",
       "Sticker": "Rep. from MD-4-A, 25th Congress",
       "Blurb": "Operator gold House holder span.",
       "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-725887357a8e",
@@ -627,6 +617,16 @@
       "office_key": "25|MD|4-B",
       "DoE": "1838-04-01",
       "ProspectusID": "72a4cd2a-fa72-774a-a73c-72588bcf1877"
+    },
+    {
+      "EdgeType": "HoldsSeat",
+      "Sticker": "Rep. from MD-4-B, 25th Congress",
+      "Blurb": "Operator gold House holder span.",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-72588b5e5c77",
+      "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-725879a8d74f",
+      "office_key": "25|MD|4-B",
+      "DoB": "1838-04-25",
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-7258807854df"
     },
     {
       "EdgeType": "HoldsSeat",
