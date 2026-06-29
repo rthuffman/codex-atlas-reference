@@ -1,9 +1,9 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.3.2-holders-1-119.1",
-  "requires_seeds_bundle_version": "0.3.11",
+  "bundle_version": "0.3.2-holders-1-119.2",
+  "requires_seeds_bundle_version": "0.3.16",
   "requires_atlas_schema_version": "1.2.0",
-  "release_tier": "minor",
+  "release_tier": "patch",
   "corpus_as_of": "2026-06-25",
   "gold_vacant_house_office_keys": [
     "37|AL|1",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.3.2-holders-1-119.1",
+      "pack_version": "0.3.2-holders-1-119.2",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -152,5 +152,5 @@
       "description": "U.S. House holder reference slices: operator gold congresses 1-119 (pre-Civil War 1-35, Civil War 36-41, post-Reconstruction certified 42-79, post-Reconstruction mesh 80-119)."
     }
   ],
-  "notes": "Minor release extending holders to congresses 1-119 with structured name parts and PersonSidecar fields. Cross-corpus person rows deduplicated at publish (one Person row per ProspectusID; materialize merges source_congresses). Policy A gold-vacant guardrails unchanged."
+  "notes": "Patch release: manifest requires_seeds_bundle_version 0.3.16 for suite pin alignment. Holder slice JSON unchanged from 0.3.2-holders-1-119.1."
 }
