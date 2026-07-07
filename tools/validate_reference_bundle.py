@@ -13,6 +13,7 @@ from typing import Any
 _PACK_ID_RE = re.compile(r"^[a-z][a-z0-9_]*$")
 _REFERENCE_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72588[0-9a-f]{7}$", re.I)
 _SKELETON_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72587[0-9a-f]{7}$", re.I)
+_ALLOWED_EDGE_TYPES = frozenset({"HoldsSeat", "Membership", "Leadership"})
 
 # Operator policy A (2026-06-15): gold Vacant wins — Civil War House seats that must
 # not carry reference HoldsSeat rows. See athena-codex
@@ -69,6 +70,7 @@ def validate_bundle(root: Path) -> list[str]:
         return errors
 
     seen_ids: set[str] = set()
+    seen_ids_by_pack: dict[str, set[str]] = {}
     for pack in packs:
         if not isinstance(pack, dict):
             _err(errors, manifest_path, "each pack must be an object")
@@ -81,6 +83,7 @@ def validate_bundle(root: Path) -> list[str]:
         if not isinstance(files, list) or not files:
             _err(errors, manifest_path, f"{pack_id}: files must be a non-empty list")
             continue
+        pack_seen = seen_ids_by_pack.setdefault(pack_id, set())
         for file_raw in files:
             rel = str(file_raw or "").strip().replace("\\", "/")
             slice_path = root / "packs" / pack_id / rel
@@ -112,15 +115,21 @@ def validate_bundle(root: Path) -> list[str]:
                 pid = str(row.get("ProspectusID") or "").strip()
                 if not _REFERENCE_PID_RE.match(pid):
                     _err(errors, slice_path, f"records[{idx}].ProspectusID must be 72588")
-                if pid in seen_ids:
-                    _err(errors, slice_path, f"duplicate ProspectusID {pid}")
+                if pid in pack_seen:
+                    _err(errors, slice_path, f"duplicate ProspectusID {pid} within pack {pack_id}")
+                pack_seen.add(pid)
                 seen_ids.add(pid)
                 if row.get("VertexType"):
                     if row.get("VertexType") != "Person":
                         _err(errors, slice_path, f"records[{idx}].VertexType must be Person")
                 elif row.get("EdgeType"):
-                    if row.get("EdgeType") != "HoldsSeat":
-                        _err(errors, slice_path, f"records[{idx}].EdgeType must be HoldsSeat")
+                    edge_type = str(row.get("EdgeType") or "").strip()
+                    if edge_type not in _ALLOWED_EDGE_TYPES:
+                        _err(
+                            errors,
+                            slice_path,
+                            f"records[{idx}].EdgeType must be one of {sorted(_ALLOWED_EDGE_TYPES)}",
+                        )
                     from_pid = str(row.get("from_prospectus_id") or "").strip()
                     to_pid = str(row.get("to_prospectus_id") or "").strip()
                     if not _REFERENCE_PID_RE.match(from_pid):

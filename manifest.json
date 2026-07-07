@@ -1,10 +1,10 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.3.2-holders-1-119.4",
+  "bundle_version": "0.4.0-appointed-1",
   "requires_seeds_bundle_version": "0.3.17",
   "requires_atlas_schema_version": "1.2.0",
-  "release_tier": "patch",
-  "corpus_as_of": "2026-06-25",
+  "release_tier": "minor",
+  "corpus_as_of": "2026-07-06",
   "gold_vacant_house_office_keys": [
     "37|AL|1",
     "37|AL|2",
@@ -150,7 +150,33 @@
         "people_post_reconstruction_mesh.json"
       ],
       "description": "U.S. House holder reference slices: operator gold congresses 1-119 (pre-Civil War 1-35, Civil War 36-41, post-Reconstruction certified 42-79, post-Reconstruction mesh 80-119)."
+    },
+    {
+      "pack_id": "usg_appointed_holders",
+      "pack_version": "0.1.0-appointed-1",
+      "files": [
+        "people_appointed_a.json",
+        "people_appointed_b.json",
+        "people_appointed_c.json",
+        "people_appointed_d.json",
+        "people_appointed_e.json",
+        "holders_cabinet_statutory_a.json",
+        "holders_cabinet_statutory_b.json",
+        "holders_constitutional.json",
+        "holders_gsa_opm_ssa.json",
+        "holders_judicial_circuit.json",
+        "holders_judicial_district_band_00_a.json",
+        "holders_judicial_district_band_00_b.json",
+        "holders_judicial_district_band_01.json",
+        "holders_judicial_scotus.json",
+        "holders_other_a.json",
+        "holders_other_b.json",
+        "holders_regulatory_commissions.json",
+        "holders_usitc.json",
+        "holders_usps.json"
+      ],
+      "description": "U.S. appointed federal holder reference slices (constitutional, statutory, independent agencies, judiciary; closed-term cut through Biden administration)."
     }
   ],
-  "notes": "Patch 119.4: manifest-only — requires_seeds_bundle_version 0.3.17 (seeds office_key alignment for 119th House). Same holder slices as 119.3 (25th MD plural district fix)."
+  "notes": "Adds usg_appointed_holders (operator signed off staged export 2026-07-06). 5224 Person rows; 8109 edge rows; closed-term cut edge DoE <= 2025-01-20."
 }
