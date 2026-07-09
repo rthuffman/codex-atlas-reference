@@ -1,7 +1,7 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.0-appointed-1",
-  "requires_seeds_bundle_version": "0.3.18",
+  "bundle_version": "0.4.0-appointed-2",
+  "requires_seeds_bundle_version": "0.3.20",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
   "corpus_as_of": "2026-07-06",
@@ -178,5 +178,5 @@
       "description": "U.S. appointed federal holder reference slices (constitutional, statutory, independent agencies, judiciary; closed-term cut through Biden administration)."
     }
   ],
-  "notes": "Adds usg_appointed_holders (operator signed off staged export 2026-07-06). 5224 Person rows; 8109 edge rows; closed-term cut edge DoE <= 2025-01-20."
+  "notes": "v0.4.0-appointed-2: manifest-only bump of requires_seeds_bundle_version to 0.3.20 (cabinet seat/Office reshape seeds). Same holder slices as 0.4.0-appointed-1."
 }
