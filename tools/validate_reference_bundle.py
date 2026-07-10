@@ -106,7 +106,8 @@ def validate_bundle(root: Path) -> list[str]:
             if not isinstance(records, list):
                 _err(errors, slice_path, "records must be a list")
                 continue
-            if int(sl.get("record_count") or -1) != len(records):
+            record_count = sl.get("record_count")
+            if not isinstance(record_count, int) or record_count != len(records):
                 _err(errors, slice_path, "record_count does not match records length")
             for idx, row in enumerate(records):
                 if not isinstance(row, dict):
