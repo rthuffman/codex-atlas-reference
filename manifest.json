@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.1-senate-1-79.1",
+  "bundle_version": "0.4.1-senate-1-79.2",
   "requires_seeds_bundle_version": "0.3.21",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
@@ -179,12 +179,13 @@
     },
     {
       "pack_id": "us_holders_senate",
-      "pack_version": "0.1.0-senate-1-79.1",
+      "pack_version": "0.1.0-senate-1-79.2",
       "files": [
         "congress_001.json",
         "congress_002.json",
         "congress_003.json",
         "congress_004.json",
+        "congress_005.json",
         "congress_006.json",
         "congress_007.json",
         "congress_008.json",
@@ -263,8 +264,8 @@
         "people_post_reconstruction_certified.json",
         "people_pre_civil_war.json"
       ],
-      "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); class seats via usg_senate_class_assignments; Person dedupe vs house + prior corpora."
+      "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.1-senate-1-79.1: adds us_holders_senate (congresses 1–79 operator gold); requires_seeds_bundle_version 0.3.21 (senate class assignments + potus/vp office ids). Retains us_holders_house + usg_appointed_holders from 0.4.0-appointed-2."
+  "notes": "v0.4.1-senate-1-79.2: gold refresh — 5th Congress Senate restored, TX 36th Ward→Wigfall succession nested (no SEN3), Cocke bioguide continuity. Requires seeds 0.3.21. Retains us_holders_house + usg_appointed_holders."
 }

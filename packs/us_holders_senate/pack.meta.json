@@ -1,5 +1,5 @@
 {
   "pack_id": "us_holders_senate",
-  "pack_version": "0.1.0-senate-1-79.1",
-  "description": "U.S. Senate holder reference slices for congresses 1–79 from operator gold YAML; HoldsSeat targets permanent class seats via usg_senate_class_assignments. Person rows omit identities already present in us_holders_house or earlier senate corpora (pack-wide ProspectusID uniqueness)."
+  "pack_version": "0.1.0-senate-1-79.2",
+  "description": "U.S. Senate holder reference slices for congresses 1–79 from operator gold YAML; HoldsSeat targets permanent class seats via usg_senate_class_assignments. Includes 5th Congress; TX 36th Ward→Wigfall succession nested. Person rows omit identities already present in us_holders_house or earlier senate corpora."
 }
