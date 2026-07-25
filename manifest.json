@@ -1,10 +1,10 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.1-senate-1-79.2",
-  "requires_seeds_bundle_version": "0.3.21",
+  "bundle_version": "0.4.2-appointed-2",
+  "requires_seeds_bundle_version": "0.3.24",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
-  "corpus_as_of": "2026-07-10",
+  "corpus_as_of": "2026-07-24",
   "gold_vacant_house_office_keys": [
     "37|AL|1",
     "37|AL|2",
@@ -153,7 +153,7 @@
     },
     {
       "pack_id": "usg_appointed_holders",
-      "pack_version": "0.1.0-appointed-1",
+      "pack_version": "0.1.1-appointed-2",
       "files": [
         "people_appointed_a.json",
         "people_appointed_b.json",
@@ -162,6 +162,7 @@
         "people_appointed_e.json",
         "holders_cabinet_statutory_a.json",
         "holders_cabinet_statutory_b.json",
+        "holders_cabinet_statutory_c.json",
         "holders_constitutional.json",
         "holders_gsa_opm_ssa.json",
         "holders_judicial_circuit.json",
@@ -169,9 +170,11 @@
         "holders_judicial_district_band_00_b.json",
         "holders_judicial_district_band_01.json",
         "holders_judicial_scotus.json",
+        "holders_mspb_ntsb_oshrc_prc.json",
         "holders_other_a.json",
         "holders_other_b.json",
-        "holders_regulatory_commissions.json",
+        "holders_regulatory_commissions_a.json",
+        "holders_regulatory_commissions_b.json",
         "holders_usitc.json",
         "holders_usps.json"
       ],
@@ -267,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.1-senate-1-79.2: gold refresh — 5th Congress Senate restored, TX 36th Ward→Wigfall succession nested (no SEN3), Cocke bioguide continuity. Requires seeds 0.3.21. Retains us_holders_house + usg_appointed_holders."
+  "notes": "v0.4.2-appointed-2: refresh usg_appointed_holders with Person to term-Cabinet Membership for statutory cabinet secretaries / cabinet-level offices (Phase 2A person-centric Cabinet Membership). 5224 Person rows; closed-term cut edge DoE <= 2025-01-20. Requires seeds >= 0.3.24. Retains us_holders_house 1-119 + us_holders_senate 1-79."
 }
