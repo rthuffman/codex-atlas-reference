@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Literal
 
 from codex_reference_ci.athena_venv import ensure_athena_venv
-from codex_reference_ci.manifest import bundle_version
+from codex_reference_ci.manifest import bundle_version, load_bundle_manifest
 from codex_reference_ci.repo import find_repo_root
 
 BundleKind = Literal["seeds", "reference"]
@@ -38,9 +38,19 @@ def sync_suite_pin(
     tag: str | None = None,
     dry_run: bool = False,
     repo_root: Path | None = None,
+    requires_seeds_bundle_version: str | None = None,
+    notes: str | None = None,
 ) -> None:
     root = repo_root or find_repo_root()
     version = str(bundle_version_value or bundle_version(root)).strip()
+    manifest = load_bundle_manifest(root)
+    # Mirror the reference repo's own already-decided values by default — these are
+    # operator-set (via export_appointed_persons_reference_slices.py /
+    # promote_appointed_reference_to_atlas.py flags), not derived here. Explicit args still win.
+    if requires_seeds_bundle_version is None and kind == "reference":
+        requires_seeds_bundle_version = str(manifest.get("requires_seeds_bundle_version") or "").strip() or None
+    if notes is None:
+        notes = str(manifest.get("notes") or "").strip() or None
     python = ensure_athena_venv()
     _ensure_codex_ci_installed(python)
     cmd = [
@@ -58,6 +68,10 @@ def sync_suite_pin(
     ]
     if tag:
         cmd.extend(["--tag", tag])
+    if requires_seeds_bundle_version:
+        cmd.extend(["--requires-seeds-bundle-version", requires_seeds_bundle_version])
+    if notes:
+        cmd.extend(["--notes", notes])
     if dry_run:
         cmd.append("--dry-run")
     print(f"+ {' '.join(cmd)}", flush=True)
