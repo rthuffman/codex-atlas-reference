@@ -9,9 +9,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools"))
 from validate_reference_bundle import validate_bundle  # noqa: E402
 
 
-PERSON_PID = "72a4cd2a-fa72-774a-a73c-72588abc0001"
-EDGE_PID = "72a4cd2a-fa72-774a-a73c-72588abc0002"
-OFFICE_PID = "72a4cd2a-fa72-774a-a73c-72587abc0003"
+PERSON_PID = "72a4cd2a-fa72-774a-a73c-88abc1234567"
+EDGE_PID = "72a4cd2a-fa72-774a-a73c-88abc1234568"
+OFFICE_PID = "72a4cd2a-fa72-774a-a73c-87abc1234569"
 
 
 def _write_bundle(root: Path, *, bad_edge_endpoint: bool = False) -> None:
@@ -38,7 +38,7 @@ def _write_bundle(root: Path, *, bad_edge_endpoint: bool = False) -> None:
             "EdgeType": "HoldsSeat",
             "ProspectusID": EDGE_PID,
             "from_prospectus_id": PERSON_PID,
-            "to_prospectus_id": "not-a-72587" if bad_edge_endpoint else OFFICE_PID,
+            "to_prospectus_id": "not-a-87-band" if bad_edge_endpoint else OFFICE_PID,
             "Sticker": "Holds seat",
             "Blurb": "",
         },
@@ -101,4 +101,4 @@ def test_validate_bundle_rejects_gold_vacant_house_office_key(tmp_path: Path) ->
 def test_validate_bundle_rejects_bad_structure_endpoint(tmp_path: Path) -> None:
     _write_bundle(tmp_path, bad_edge_endpoint=True)
     errors = validate_bundle(tmp_path)
-    assert any("to_prospectus_id must be 72587" in e for e in errors)
+    assert any("to_prospectus_id must be 87-band" in e for e in errors)

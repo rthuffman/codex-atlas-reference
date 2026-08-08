@@ -1,7 +1,7 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.2-appointed-2",
-  "requires_seeds_bundle_version": "0.3.24",
+  "bundle_version": "0.4.3-pid-plus3",
+  "requires_seeds_bundle_version": "0.3.25",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
   "corpus_as_of": "2026-07-24",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.3.2-holders-1-119.4",
+      "pack_version": "0.3.2-holders-1-119.4+3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -153,7 +153,7 @@
     },
     {
       "pack_id": "usg_appointed_holders",
-      "pack_version": "0.1.1-appointed-2",
+      "pack_version": "0.1.1-appointed-2+3",
       "files": [
         "people_appointed_a.json",
         "people_appointed_b.json",
@@ -182,7 +182,7 @@
     },
     {
       "pack_id": "us_holders_senate",
-      "pack_version": "0.1.0-senate-1-79.2",
+      "pack_version": "0.1.0-senate-1-79.2+3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -270,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.2-appointed-2: refresh usg_appointed_holders with Person to term-Cabinet Membership for statutory cabinet secretaries / cabinet-level offices (Phase 2A person-centric Cabinet Membership). 5224 Person rows; closed-term cut edge DoE <= 2025-01-20. Requires seeds >= 0.3.24. Retains us_holders_house 1-119 + us_holders_senate 1-79."
+  "notes": "v0.4.3-pid-plus3: greenfield remint of all holder ProspectusIDs onto Atlas +3 encoding (Person/edges …a73c-88 + 10 hex; skeleton endpoints …a73c-87 + 10 hex). Requires seeds >= 0.3.25. Retains us_holders_house 1-119, us_holders_senate 1-79, usg_appointed_holders."
 }

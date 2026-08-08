@@ -11,8 +11,9 @@ from pathlib import Path
 from typing import Any
 
 _PACK_ID_RE = re.compile(r"^[a-z][a-z0-9_]*$")
-_REFERENCE_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72588[0-9a-f]{7}$", re.I)
-_SKELETON_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-72587[0-9a-f]{7}$", re.I)
+# Atlas +3 encoding (2026-08): band 2 hex + payload 10 hex. Legacy 72587/72588 + 7 hex rejected.
+_REFERENCE_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-88[0-9a-f]{10}$", re.I)
+_SKELETON_PID_RE = re.compile(r"^72a4cd2a-fa72-774a-a73c-87[0-9a-f]{10}$", re.I)
 _ALLOWED_EDGE_TYPES = frozenset({"HoldsSeat", "Membership", "Leadership"})
 
 # Operator policy A (2026-06-15): gold Vacant wins — Civil War House seats that must
@@ -115,7 +116,7 @@ def validate_bundle(root: Path) -> list[str]:
                     continue
                 pid = str(row.get("ProspectusID") or "").strip()
                 if not _REFERENCE_PID_RE.match(pid):
-                    _err(errors, slice_path, f"records[{idx}].ProspectusID must be 72588")
+                    _err(errors, slice_path, f"records[{idx}].ProspectusID must be 88-band")
                 if pid in pack_seen:
                     _err(errors, slice_path, f"duplicate ProspectusID {pid} within pack {pack_id}")
                 pack_seen.add(pid)
@@ -134,9 +135,9 @@ def validate_bundle(root: Path) -> list[str]:
                     from_pid = str(row.get("from_prospectus_id") or "").strip()
                     to_pid = str(row.get("to_prospectus_id") or "").strip()
                     if not _REFERENCE_PID_RE.match(from_pid):
-                        _err(errors, slice_path, f"records[{idx}].from_prospectus_id must be 72588")
+                        _err(errors, slice_path, f"records[{idx}].from_prospectus_id must be 88-band")
                     if not _SKELETON_PID_RE.match(to_pid):
-                        _err(errors, slice_path, f"records[{idx}].to_prospectus_id must be 72587")
+                        _err(errors, slice_path, f"records[{idx}].to_prospectus_id must be 87-band")
                     office_key = str(row.get("office_key") or "").strip()
                     if office_key in GOLD_VACANT_HOUSE_OFFICE_KEYS:
                         _err(
