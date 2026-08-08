@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.3-pid-plus3",
+  "bundle_version": "0.4.4-pid-plus3",
   "requires_seeds_bundle_version": "0.3.25",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "minor",
@@ -270,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.3-pid-plus3: greenfield remint of all holder ProspectusIDs onto Atlas +3 encoding (Person/edges …a73c-88 + 10 hex; skeleton endpoints …a73c-87 + 10 hex). Requires seeds >= 0.3.25. Retains us_holders_house 1-119, us_holders_senate 1-79, usg_appointed_holders."
+  "notes": "v0.4.4-pid-plus3: remint from legacy 72587/72588 with cross-pack House Person identity preserved on Senate/appointed edges (fix orphan synthetic from_pids). Person/edges …a73c-88 + 10 hex; skeleton endpoints …a73c-87 + 10 hex. Requires seeds >= 0.3.25."
 }

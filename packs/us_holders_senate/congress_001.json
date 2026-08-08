@@ -5,7 +5,7 @@
   "congress": 1,
   "corpus_as_of": "2026-07-10",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.3-pid-plus3",
+  "reference_bundle_version": "0.4.4-pid-plus3",
   "record_count": 29,
   "notes": "Operator gold Senate HoldsSeat edges for 1st Congress (permanent class seats via to_prospectus_id).",
   "records": [
@@ -123,12 +123,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NH Class 2, 1st Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8815de52b925",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8860bbbeb1d5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8792fd02a250",
       "senate_class": 2,
       "postal": "NH",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888e86cedef6"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889392190aed"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -262,13 +262,13 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from RI Class 2, 1st Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-883dda6440f8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884b5dacac71",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87cab4691cf1",
       "senate_class": 2,
       "postal": "RI",
       "seat_index": 2,
       "DoB": "1790-06-25",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889fbc241d37"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880c149bb564"
     },
     {
       "EdgeType": "HoldsSeat",

@@ -5,7 +5,7 @@
   "congress": 33,
   "corpus_as_of": "2026-07-10",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.3-pid-plus3",
+  "reference_bundle_version": "0.4.4-pid-plus3",
   "record_count": 70,
   "notes": "Operator gold Senate HoldsSeat edges for 33rd Congress (permanent class seats via to_prospectus_id).",
   "records": [
@@ -59,58 +59,58 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from AR Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8840a5b24a86",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e690a6158d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87197c1330fe",
       "senate_class": 3,
       "postal": "AR",
       "seat_index": 2,
       "DoB": "1853-07-06",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e661ffc21e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8871e84885c7"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CA Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8800ca56c59e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88475892cac2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87270a6446a6",
       "senate_class": 1,
       "postal": "CA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e677e9bd49"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885a4aa3d17b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CA Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88223b95fa40",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c0240ea1a8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8706169b6728",
       "senate_class": 3,
       "postal": "CA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8846905a9455"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-883614efea62"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CT Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88bf22bcd6e3",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8855bba25a6d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ae0dbcffa3",
       "senate_class": 1,
       "postal": "CT",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b6df6d8aaa"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8834e63dd035"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CT Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888d0a45e89f",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88057f018938",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e1935ca2a8",
       "senate_class": 3,
       "postal": "CT",
       "seat_index": 2,
       "DoE": "1854-05-24",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b3f4668d36"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881094876cba"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -172,34 +172,34 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from GA Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e003e5c28b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888514c5d48d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87409d8e19cd",
       "senate_class": 2,
       "postal": "GA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8850bc5c2128"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88de31ee2602"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from GA Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c90ab16549",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88359fede7e0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ecdd1470ca",
       "senate_class": 3,
       "postal": "GA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8804745b69ac"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8893053599b1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from IL Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88dfe7ecc338",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8843e41e569a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-873db8c603a6",
       "senate_class": 2,
       "postal": "IL",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b8650196ff"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8826ee5febdd"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -227,12 +227,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from IN Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e346718d81",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88af23e0ef2b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87c546609f64",
       "senate_class": 3,
       "postal": "IN",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881c7326fe2f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88658c176666"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -261,12 +261,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from KY Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88be8d251e77",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f953e57b63",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87c74796b031",
       "senate_class": 2,
       "postal": "KY",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88bd9a026b8a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88cb35080e3f"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -306,36 +306,36 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from LA Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88cd3f17a926",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88569f13837d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87cb2f67daa3",
       "senate_class": 3,
       "postal": "LA",
       "seat_index": 2,
       "DoB": "1853-12-05",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ff3f6edc75"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e86d129db8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from ME Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88fa4a267f9d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-883a9edd39b8",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d60c3aee10",
       "senate_class": 1,
       "postal": "ME",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8845939e12dd"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-883b4eec3cc0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from ME Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ef80ca2c36",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8844f1f49182",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-872382fae514",
       "senate_class": 2,
       "postal": "ME",
       "seat_index": 2,
       "DoB": "1854-02-10",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88bdd6a50e79"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8891b78b556d"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -352,12 +352,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MD Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f7798aa4f1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88751d5ec71c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8712505b8088",
       "senate_class": 3,
       "postal": "MD",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-884853ebf9b7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ac69cfef46"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -374,26 +374,26 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MA Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-889be590a9a9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8897106b2533",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-872fe8db51b3",
       "senate_class": 2,
       "postal": "MA",
       "seat_index": 2,
       "DoE": "1854-06-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88075d97c32c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8890c073ed48"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MA Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88725ef5256d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-887bbc964b33",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-872fe8db51b3",
       "senate_class": 2,
       "postal": "MA",
       "seat_index": 2,
       "DoB": "1854-06-03",
       "DoE": "1855-01-31",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8835b428a3b9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887c34b3c70b"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -422,35 +422,35 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MI Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8831f9bd6db1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8843ba35499e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8786cbf7bb3a",
       "senate_class": 2,
       "postal": "MI",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8888482f7180"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885b6c0e92f1"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MS Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c92d4d46c2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886bcb7caa86",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87def53b81b4",
       "senate_class": 1,
       "postal": "MS",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-883aa855ccc0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dab424ec0c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MS Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8841b7354690",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88847d0517c0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e769e656c5",
       "senate_class": 2,
       "postal": "MS",
       "seat_index": 2,
       "DoB": "1854-01-07",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8853b245d478"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8844d5568d3e"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -478,38 +478,38 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NH Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a57773b681",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8851859c8218",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8792fd02a250",
       "senate_class": 2,
       "postal": "NH",
       "seat_index": 1,
       "DoE": "1853-11-15",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8819cf633216"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a734a5b253"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NH Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88fff1bede9c",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8868b21c4294",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8792fd02a250",
       "senate_class": 2,
       "postal": "NH",
       "seat_index": 1,
       "DoB": "1853-11-29",
       "DoE": "1854-07-15",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8853f70eac2d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e82c5bb730"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NH Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88939a36ddde",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f6e9b2a302",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87033450dca3",
       "senate_class": 3,
       "postal": "NH",
       "seat_index": 2,
       "DoE": "1855-01-11",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f44a08b2a5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88c8f6464c4e"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -538,12 +538,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NJ Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a7a941bcab",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88649e047d1e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d9cfdf2bb4",
       "senate_class": 2,
       "postal": "NJ",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88bf679fbaa8"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8816288efde2"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -571,13 +571,13 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NC Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-883167e0800d",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-881d28e3f48f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87accabfe3d6",
       "senate_class": 2,
       "postal": "NC",
       "seat_index": 1,
       "DoB": "1854-12-06",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881ea9100778"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887f3e9bbd46"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -616,23 +616,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from PA Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8879b7914994",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-887e6a9b131c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87b89d1301a2",
       "senate_class": 1,
       "postal": "PA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881a186b0176"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88925367717d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from PA Class 3, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882c59337713",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882b9e4b06fa",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d645ae0440",
       "senate_class": 3,
       "postal": "PA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a4092c1236"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8889aceda367"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -716,23 +716,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from TX Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e7bf4639d5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ec2ca829c9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87cac91b0434",
       "senate_class": 2,
       "postal": "TX",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880ad2a84652"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885b15cf6bbf"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VT Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88408d55f4ab",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882ea9db34c3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-873f8af82545",
       "senate_class": 1,
       "postal": "VT",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88286353ea4c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880ab0a9a7a0"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -762,23 +762,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 1, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-887d79365afe",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88986e93857e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e13901b18e",
       "senate_class": 1,
       "postal": "VA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887340f8d4ed"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8845b0f9d6f8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 2, 33rd Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888219115880",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a447bb8b1f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ba68637119",
       "senate_class": 2,
       "postal": "VA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f285c57088"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dc7af65ca4"
     },
     {
       "EdgeType": "HoldsSeat",

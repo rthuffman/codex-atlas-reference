@@ -5,7 +5,7 @@
   "congress": 67,
   "corpus_as_of": "2026-07-10",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.3-pid-plus3",
+  "reference_bundle_version": "0.4.4-pid-plus3",
   "record_count": 107,
   "notes": "Operator gold Senate HoldsSeat edges for 67th Congress (permanent class seats via to_prospectus_id).",
   "records": [
@@ -13,23 +13,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from AL Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88222c023898",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f503ec6a2c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8798fddce524",
       "senate_class": 2,
       "postal": "AL",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88819a4f4f3b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888c9040e442"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from AL Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888cacf21dff",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f45559ba4b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-879dc8670aa1",
       "senate_class": 3,
       "postal": "AL",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dc7326bbfa"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-883eb1102da1"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -57,23 +57,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from AR Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-881dcfe48a11",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88535493d6d4",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8774f7908500",
       "senate_class": 2,
       "postal": "AR",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88fbc83b149b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b6eccfde93"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from AR Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88cdab96b397",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ea386f1e3b",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87197c1330fe",
       "senate_class": 3,
       "postal": "AR",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8834012dfee5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f1afaa5f4a"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -134,12 +134,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CT Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88bc1e023537",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a4e605051e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e1935ca2a8",
       "senate_class": 3,
       "postal": "CT",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889192662235"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8887768773a5"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -182,12 +182,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from DE Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8835d15aa4f9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8812d462622e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ecfad82e8d",
       "senate_class": 2,
       "postal": "DE",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882fd3d3afb9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-884ac0f30ed3"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -226,13 +226,13 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from GA Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e780a3c263",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88af4bb63295",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ecdd1470ca",
       "senate_class": 3,
       "postal": "GA",
       "seat_index": 2,
       "DoE": "1922-09-26",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-883fa217db98"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88fff090159b"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -285,23 +285,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from IL Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88d2fe8677c9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-883cf659b2ba",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-873db8c603a6",
       "senate_class": 2,
       "postal": "IL",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-886a62b660a7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f8156d692e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from IL Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c665087a30",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886592a68f72",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8711dc51a0bf",
       "senate_class": 3,
       "postal": "IL",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f8d4f706de"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887837b9487f"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -318,12 +318,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from IN Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88195d94e72e",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a415b1a97a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87c546609f64",
       "senate_class": 3,
       "postal": "IN",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a781544420"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b12c18622c"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -388,23 +388,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from KS Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a4833b77ca",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88d5f76ab4b9",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8714394a27df",
       "senate_class": 3,
       "postal": "KS",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dcf9750033"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88517a805f9e"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from KY Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8840e9f3442b",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-881d3d0389ab",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87c74796b031",
       "senate_class": 2,
       "postal": "KY",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ff15f0a631"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-886cea6ed246"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -421,12 +421,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from LA Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886f6ba10379",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-880149ce3026",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8765f1769051",
       "senate_class": 2,
       "postal": "LA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882a162d1512"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a85a193576"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -487,12 +487,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MA Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8889c84969d5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8867fa8b5a5f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87a82ab0655c",
       "senate_class": 1,
       "postal": "MA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8856b1a6cbeb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a54a31e97f"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -509,12 +509,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MI Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a8cf3a0abf",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e9a0963f72",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87f03ac96231",
       "senate_class": 1,
       "postal": "MI",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88abb96ab60d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a4640c38d4"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -555,34 +555,34 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MN Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88269163ad81",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8867e367a245",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8757b556fb91",
       "senate_class": 2,
       "postal": "MN",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888f5d5673a4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8853f704fa47"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MS Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8867f6e4eae1",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c51cfa21bf",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87def53b81b4",
       "senate_class": 1,
       "postal": "MS",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8872531d39ca"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e73598a3a4"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MS Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888976751dc5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e5c377b6fc",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e769e656c5",
       "senate_class": 2,
       "postal": "MS",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8815b9aa5358"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885c3f1da103"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -632,23 +632,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NE Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8800acd30fbc",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88471b67418d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-870c5c3152bd",
       "senate_class": 1,
       "postal": "NE",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882ef1d264b4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8809e0a3b752"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NE Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-889bced4c933",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884ae8d4fc4d",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87824bd35e79",
       "senate_class": 2,
       "postal": "NE",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e7e188e81e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8853530b3f7a"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -755,34 +755,34 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NY Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882cfabbbaa7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88942859d6f0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d8279df70d",
       "senate_class": 1,
       "postal": "NY",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880cf52015ac"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88bb42459629"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NY Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88481b3cbc91",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886a7221d276",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87bf2a260afa",
       "senate_class": 3,
       "postal": "NY",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885675efddd5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8847e10453a5"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NC Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88bfd73ebbbd",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884b924f1b44",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87accabfe3d6",
       "senate_class": 2,
       "postal": "NC",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d4f461ed9c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8865e6dec813"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -832,12 +832,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from OH Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8808b20a0ae8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8862db49996f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87fe76593c48",
       "senate_class": 3,
       "postal": "OH",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8817c701fd21"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8853c66cbdb8"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -854,12 +854,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from OK Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884cd55c6e98",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8881a88e9ce5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87bcccd9d2a6",
       "senate_class": 3,
       "postal": "OK",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888553a887eb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-886ed9ef4883"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -948,12 +948,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from RI Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88810f8bdf86",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-889ae35eecc2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8787317d7bd7",
       "senate_class": 1,
       "postal": "RI",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88c0a5cdca3c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882f001d62ae"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -1014,12 +1014,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from TN Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88b2eb2c6cd8",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8853cb6d367e",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87c020d2ca24",
       "senate_class": 1,
       "postal": "TN",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e365b34d1a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885ac07bf672"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -1047,23 +1047,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from TX Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8839bfe79106",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a252df8c5f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87cac91b0434",
       "senate_class": 2,
       "postal": "TX",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8891b5b7ca0e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889d002f9726"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from UT Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c7a271c0f7",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f34fa48a23",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-872baf0d14df",
       "senate_class": 1,
       "postal": "UT",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880297883e76"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887289059419"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -1102,56 +1102,56 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8869c7240757",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886f13816169",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e13901b18e",
       "senate_class": 1,
       "postal": "VA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88329558f13e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8899227ddf68"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 2, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f4ca247bcf",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8816a02b3c78",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ba68637119",
       "senate_class": 2,
       "postal": "VA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8865a82deb57"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888d3470d1c8"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from WA Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88588f006533",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882b414a64bb",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87baecf2aad9",
       "senate_class": 1,
       "postal": "WA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8899ee28b0b3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882f66a3c318"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from WA Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88fafa00ebce",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884d8b7136d5",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8750ef862ba6",
       "senate_class": 3,
       "postal": "WA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e5d391c483"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88fe52b0b30c"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from WV Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888b16e19ff0",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8847e39db461",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87b333c08746",
       "senate_class": 1,
       "postal": "WV",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88c67dbfcf40"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e4fa6af692"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -1168,23 +1168,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from WI Class 1, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c1f894e911",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a410dfa27a",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-873c90c07e39",
       "senate_class": 1,
       "postal": "WI",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889238270828"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88992337b43f"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from WI Class 3, 67th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886d3fe9392a",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f02d936bad",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-878a6a5f2970",
       "senate_class": 3,
       "postal": "WI",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8800738cd883"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8802ef16e4b9"
     },
     {
       "EdgeType": "HoldsSeat",

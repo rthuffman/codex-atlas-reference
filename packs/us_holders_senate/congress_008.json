@@ -5,7 +5,7 @@
   "congress": 8,
   "corpus_as_of": "2026-07-10",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.3-pid-plus3",
+  "reference_bundle_version": "0.4.4-pid-plus3",
   "record_count": 47,
   "notes": "Operator gold Senate HoldsSeat edges for 8th Congress (permanent class seats via to_prospectus_id).",
   "records": [
@@ -13,23 +13,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CT Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8840a1ac5f04",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-889aaec0b68f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ae0dbcffa3",
       "senate_class": 1,
       "postal": "CT",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8882a127d556"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8842cb087838"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from CT Class 3, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-881875146360",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8882d88ce1f6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e1935ca2a8",
       "senate_class": 3,
       "postal": "CT",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88704b6adb28"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88927d0428a9"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -58,24 +58,24 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from DE Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f6857cc820",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ff8750570f",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ecfad82e8d",
       "senate_class": 2,
       "postal": "DE",
       "seat_index": 2,
       "DoB": "1804-11-13",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889f655511ed"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8828530d4da6"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from GA Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88fbd46a7af9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8814fe50bd37",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87409d8e19cd",
       "senate_class": 2,
       "postal": "GA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88cfb2e8b323"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88173fe6aa3a"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -125,34 +125,34 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MD Class 3, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88fe8cb86b70",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f606db8783",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8712505b8088",
       "senate_class": 3,
       "postal": "MD",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-884468239c2a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88826bbafb25"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MA Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88bb173332a2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88d2e0ca17c1",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87a82ab0655c",
       "senate_class": 1,
       "postal": "MA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88240cf75498"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a682f1a529"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from MA Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88e79fddcf41",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a59dc91ada",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-872fe8db51b3",
       "senate_class": 2,
       "postal": "MA",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dfd2a8a97d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888ae47373e7"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -180,36 +180,36 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NJ Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-880050f1ffd5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-884358f4e71c",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87b53660aaef",
       "senate_class": 1,
       "postal": "NJ",
       "seat_index": 1,
       "DoB": "1803-09-01",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880e33ed04ed"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887b2c19a76d"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NJ Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ef0e4cb6fa",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-886a2e937325",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d9cfdf2bb4",
       "senate_class": 2,
       "postal": "NJ",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8843007f69da"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b57d527a99"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NY Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c9b9210acc",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88770ec3c5ae",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d8279df70d",
       "senate_class": 1,
       "postal": "NY",
       "seat_index": 1,
       "DoE": "1804-01-16",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885b23781e1c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d592d397b4"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -228,13 +228,13 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NY Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-881281a759d5",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88c81a36f3ca",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87d8279df70d",
       "senate_class": 1,
       "postal": "NY",
       "seat_index": 1,
       "DoB": "1804-11-23",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88af035f2bbf"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885d087ef986"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -277,23 +277,23 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NC Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88849e97e080",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8887700f5689",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87accabfe3d6",
       "senate_class": 2,
       "postal": "NC",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88350e7c78ba"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b7e338c612"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from NC Class 3, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88064178dea2",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8891ad2a39d3",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-870dc10ee21e",
       "senate_class": 3,
       "postal": "NC",
       "seat_index": 2,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8801cd9bfa25"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881452a07e60"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -323,12 +323,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from PA Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f2677b6a30",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88f5c0602c13",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87b89d1301a2",
       "senate_class": 1,
       "postal": "PA",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8810cc33ff72"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885542ff90bf"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -380,12 +380,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from SC Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88ad3afc2853",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8809b2afe9e6",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-8711840719bd",
       "senate_class": 2,
       "postal": "SC",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88983d9f54fe"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88291012e7eb"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -437,12 +437,12 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VT Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-882f48fd5ac9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88bd42db98a0",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-873f8af82545",
       "senate_class": 1,
       "postal": "VT",
       "seat_index": 1,
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ccd1e1b7ae"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88c131cfa80b"
     },
     {
       "EdgeType": "HoldsSeat",
@@ -484,76 +484,76 @@
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8870aacc8029",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88d2eeb3ddd2",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e13901b18e",
       "senate_class": 1,
       "postal": "VA",
       "seat_index": 1,
       "DoB": "1803-12-07",
       "DoE": "1804-06-07",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88dc7d9e65cb"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e98191b6d0"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88070759b1f4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-885233df4056",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e13901b18e",
       "senate_class": 1,
       "postal": "VA",
       "seat_index": 1,
       "DoB": "1804-08-11",
       "DoE": "1804-12-04",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b8ea0f68ad"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889e49fad029"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 1, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-885539385f13",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8835642ef026",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87e13901b18e",
       "senate_class": 1,
       "postal": "VA",
       "seat_index": 1,
       "DoB": "1804-12-04",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a3c7929d4f"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8802364dd1a9"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88a2fb811be9",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-888229bcfc53",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ba68637119",
       "senate_class": 2,
       "postal": "VA",
       "seat_index": 2,
       "DoE": "1804-05-22",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881cb38ec658"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889b84ef980b"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-885539385f13",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-8835642ef026",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ba68637119",
       "senate_class": 2,
       "postal": "VA",
       "seat_index": 2,
       "DoB": "1804-08-11",
       "DoE": "1804-12-04",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88fd40742c0e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-888a0e625308"
     },
     {
       "EdgeType": "HoldsSeat",
       "Sticker": "Sen. from VA Class 2, 8th Congress",
       "Blurb": "Operator gold Senate holder span.",
-      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-88070759b1f4",
+      "from_prospectus_id": "72a4cd2a-fa72-774a-a73c-885233df4056",
       "to_prospectus_id": "72a4cd2a-fa72-774a-a73c-87ba68637119",
       "senate_class": 2,
       "postal": "VA",
       "seat_index": 2,
       "DoB": "1804-12-04",
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88eddbdf2770"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-881abcd10f39"
     }
   ]
 }
