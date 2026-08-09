@@ -3,7 +3,7 @@
   "slice_id": "us_holders_house_people_post_reconstruction_certified",
   "pack_id": "us_holders_house",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.5-missing-bioguide",
   "record_count": 4406,
   "corpus_as_of": "2026-06-25",
   "notes": "Canonical Person records for Post-Reconstruction certified (operator gold); generated from operator gold.",
@@ -4311,9 +4311,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "R000200"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887629573011"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887629573011",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/R000200",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -10243,26 +10253,36 @@
     },
     {
       "VertexType": "Person",
-      "Name": "William B. Spencer (D) June 8, 1876 - January 8, 1877",
-      "Sticker": "William B. Spencer (D) June 8, 1876 - January 8, 1877",
+      "Name": "William B. Spencer",
+      "Sticker": "William B. Spencer",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         44
       ],
       "GivenName": "William",
-      "FamilyName": "1877",
+      "FamilyName": "Spencer",
       "MiddleInitial": "B",
       "Sidecar": {
         "version": "0.1",
-        "middle": "B. Spencer (d) June 8, 1876 - January 8,",
+        "middle": "B",
         "name_source": "gold_explicit",
-        "raw": "William B. Spencer (D) June 8, 1876 - January 8, 1877",
+        "raw": "William B. Spencer",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000731"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a0b62ab929"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88a0b62ab929",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000731",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -12434,9 +12454,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "L000002"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b0480e0072"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88b0480e0072",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/L000002",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -12619,9 +12649,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000807"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e051e6bec3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e051e6bec3",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000807",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -15255,9 +15295,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "Y000045"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882c3249a9f3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882c3249a9f3",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/Y000045",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -23403,9 +23453,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "M000548"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ebe43e0a4d"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ebe43e0a4d",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/M000548",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -26042,9 +26102,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "C001032"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f886026964"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f886026964",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/C001032",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -35897,9 +35967,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000267"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d0d7590650"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d0d7590650",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000267",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -41135,9 +41215,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "T000415"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f35e0ba2ae"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f35e0ba2ae",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/T000415",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -51998,9 +52088,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000305"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88043fc62758"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88043fc62758",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000305",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -54686,9 +54786,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "T000324"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889f2a0ff4a3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-889f2a0ff4a3",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/T000324",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -87208,9 +87318,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "M001070"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8841063347df"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8841063347df",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/M001070",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -99235,9 +99355,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "B000552"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88de5fcfaa79"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88de5fcfaa79",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/B000552",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -108823,9 +108953,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "L000171"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8807f5ff3ae4"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8807f5ff3ae4",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/L000171",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -115927,9 +116067,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "H000421"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d53c6d4e93"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88d53c6d4e93",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/H000421",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -117021,9 +117171,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "R000294"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e22fdc57ee"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e22fdc57ee",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/R000294",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -117233,9 +117393,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "K000024"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880411ef7913"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-880411ef7913",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/K000024",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -121135,9 +121305,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "B000442"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ee7e9cea51"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ee7e9cea51",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/B000442",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -121190,9 +121370,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S001042"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e08dc7cfb3"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88e08dc7cfb3",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S001042",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -123185,9 +123375,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "G000197"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8806ccab3dee"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8806ccab3dee",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/G000197",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -124074,9 +124274,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "L000228"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f2156657a9"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88f2156657a9",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/L000228",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -124097,9 +124307,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "F000317"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ad2fcc696b"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88ad2fcc696b",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/F000317",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -125607,9 +125827,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "M000138"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8882e3fa618e"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8882e3fa618e",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/M000138",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -125968,9 +126198,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "M001067"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88332d073fb0"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88332d073fb0",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/M001067",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -133899,26 +134139,36 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Zadoc L. Weatherford (D). from November 5, 1940",
-      "Sticker": "Zadoc L. Weatherford (D). from November 5, 1940",
+      "Name": "Zadoc L. Weatherford",
+      "Sticker": "Zadoc L. Weatherford",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         76
       ],
       "GivenName": "Zadoc",
-      "FamilyName": "1940",
+      "FamilyName": "Weatherford",
       "MiddleInitial": "L",
       "Sidecar": {
         "version": "0.1",
-        "middle": "L. Weatherford (d) from November 5,",
+        "middle": "L",
         "name_source": "gold_explicit",
-        "raw": "Zadoc L. Weatherford (D). from November 5, 1940",
+        "raw": "Zadoc L. Weatherford",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "W000222"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8808da959382"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8808da959382",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/W000222",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -143329,9 +143579,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "P000503"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887a770fd0c5"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887a770fd0c5",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/P000503",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -145631,9 +145891,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000163"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88853533f97a"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-88853533f97a",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000163",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",

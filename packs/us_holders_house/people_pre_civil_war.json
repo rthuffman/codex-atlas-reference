@@ -3,7 +3,7 @@
   "slice_id": "us_holders_house_people_pre_civil_war",
   "pack_id": "us_holders_house",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.5-missing-bioguide",
   "record_count": 3126,
   "corpus_as_of": "2026-06-24",
   "notes": "Canonical Person records for Pre–Civil War (Wikipedia draft); generated from operator gold.",
@@ -43264,9 +43264,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "E000237"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882ff127c883"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-882ff127c883",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/E000237",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -52048,9 +52058,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "F000090"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8871028f70fa"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8871028f70fa",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/F000090",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
@@ -53291,9 +53311,19 @@
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
-        }
+        },
+        "bioguide_id": "S000446"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885bbdcfaa8c"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-885bbdcfaa8c",
+      "Links": [
+        {
+          "URL": "https://bioguide.congress.gov/search/bio/S000446",
+          "Blurb": "Biographical Directory of the United States Congress",
+          "DateRetrieved": "2026-08-09",
+          "IAFlag": false,
+          "IALink": null
+        }
+      ]
     },
     {
       "VertexType": "Person",
