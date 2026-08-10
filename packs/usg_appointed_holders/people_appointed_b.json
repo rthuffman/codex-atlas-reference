@@ -3,7 +3,7 @@
   "slice_id": "usg_appointed_holders:people_appointed_b:0.4.2-appointed-2",
   "pack_id": "usg_appointed_holders",
   "record_count": 962,
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.7-identity-fixes",
   "requires_seeds_bundle_version": "0.3.25",
   "corpus_as_of": "2025-01-20",
   "notes": "Canonical Person records for appointed federal holders.",
@@ -10467,20 +10467,20 @@
     },
     {
       "VertexType": "Person",
-      "Name": "G[eorge] Thomas VanBebber",
+      "Name": "George Thomas VanBebber",
       "Sticker": "U.S. Magistrate",
-      "Blurb": "G[eorge] Thomas VanBebber (Wikipedia)",
+      "Blurb": "George Thomas VanBebber (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_district_of_kansas",
         "other_federal_judicial_service"
       ],
-      "GivenName": "G[eorge]",
+      "GivenName": "George",
       "FamilyName": "VanBebber",
       "MiddleInitial": "T",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/George_Thomas_Van_Bebber",
-          "Blurb": "G[eorge] Thomas VanBebber on Wikipedia.",
+          "Blurb": "George Thomas VanBebber on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -10490,7 +10490,7 @@
         "version": "0.1",
         "middle": "Thomas",
         "name_source": "gold_display_name",
-        "raw": "G[eorge] Thomas VanBebber",
+        "raw": "George Thomas VanBebber",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -15594,19 +15594,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "J[ohn] Spencer Letts",
+      "Name": "John Spencer Letts",
       "Sticker": "Judge",
-      "Blurb": "J[ohn] Spencer Letts (Wikipedia)",
+      "Blurb": "John Spencer Letts (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_central_district_of_california"
       ],
-      "GivenName": "J[ohn]",
+      "GivenName": "John",
       "FamilyName": "Letts",
       "MiddleInitial": "S",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/John_Spencer_Letts",
-          "Blurb": "J[ohn] Spencer Letts on Wikipedia.",
+          "Blurb": "John Spencer Letts on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -15616,7 +15616,7 @@
         "version": "0.1",
         "middle": "Spencer",
         "name_source": "gold_display_name",
-        "raw": "J[ohn] Spencer Letts",
+        "raw": "John Spencer Letts",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -17581,19 +17581,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "C[larence] Arlen Beam",
+      "Name": "Clarence Arlen Beam",
       "Sticker": "Judge",
-      "Blurb": "C[larence] Arlen Beam (Wikipedia)",
+      "Blurb": "Clarence Arlen Beam (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_district_of_nebraska"
       ],
-      "GivenName": "C[larence]",
+      "GivenName": "Clarence",
       "FamilyName": "Beam",
       "MiddleInitial": "A",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Clarence_Arlen_Beam",
-          "Blurb": "C[larence] Arlen Beam on Wikipedia.",
+          "Blurb": "Clarence Arlen Beam on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -17603,7 +17603,7 @@
         "version": "0.1",
         "middle": "Arlen",
         "name_source": "gold_display_name",
-        "raw": "C[larence] Arlen Beam",
+        "raw": "Clarence Arlen Beam",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -20473,19 +20473,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "C[harles] William Kraft Jr.",
+      "Name": "Charles William Kraft Jr.",
       "Sticker": "Judge",
-      "Blurb": "C[harles] William Kraft Jr. (Wikipedia)",
+      "Blurb": "Charles William Kraft Jr. (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_eastern_district_of_pennsylvania"
       ],
-      "GivenName": "C[harles]",
+      "GivenName": "Charles",
       "FamilyName": "Kraft",
       "MiddleInitial": "W",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Charles_William_Kraft_Jr.",
-          "Blurb": "C[harles] William Kraft Jr. on Wikipedia.",
+          "Blurb": "Charles William Kraft Jr. on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -20496,7 +20496,7 @@
         "middle": "William",
         "suffix": "Jr",
         "name_source": "gold_display_name",
-        "raw": "C[harles] William Kraft Jr.",
+        "raw": "Charles William Kraft Jr.",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -24613,19 +24613,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "[Percy] Whitman Knapp",
+      "Name": "Percy Whitman Knapp",
       "Sticker": "Judge",
-      "Blurb": "[Percy] Whitman Knapp (Wikipedia)",
+      "Blurb": "Percy Whitman Knapp (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_southern_district_of_new_york"
       ],
-      "GivenName": "[Percy]",
+      "GivenName": "Percy",
       "FamilyName": "Knapp",
       "MiddleInitial": "W",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Percy_Whitman_Knapp",
-          "Blurb": "[Percy] Whitman Knapp on Wikipedia.",
+          "Blurb": "Percy Whitman Knapp on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -24635,7 +24635,7 @@
         "version": "0.1",
         "middle": "Whitman",
         "name_source": "gold_display_name",
-        "raw": "[Percy] Whitman Knapp",
+        "raw": "Percy Whitman Knapp",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -25232,19 +25232,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "H[ugh] Franklin Waters",
+      "Name": "Hugh Franklin Waters",
       "Sticker": "Judge",
-      "Blurb": "H[ugh] Franklin Waters (Wikipedia)",
+      "Blurb": "Hugh Franklin Waters (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_western_district_of_arkansas"
       ],
-      "GivenName": "H[ugh]",
+      "GivenName": "Hugh",
       "FamilyName": "Waters",
       "MiddleInitial": "F",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Hugh_Franklin_Waters",
-          "Blurb": "H[ugh] Franklin Waters on Wikipedia.",
+          "Blurb": "Hugh Franklin Waters on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -25254,7 +25254,7 @@
         "version": "0.1",
         "middle": "Franklin",
         "name_source": "gold_display_name",
-        "raw": "H[ugh] Franklin Waters",
+        "raw": "Hugh Franklin Waters",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75

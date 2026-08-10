@@ -3,7 +3,7 @@
   "slice_id": "usg_appointed_holders:people_appointed_c:0.4.2-appointed-2",
   "pack_id": "usg_appointed_holders",
   "record_count": 1046,
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.7-identity-fixes",
   "requires_seeds_bundle_version": "0.3.25",
   "corpus_as_of": "2025-01-20",
   "notes": "Canonical Person records for appointed federal holders.",
@@ -11011,7 +11011,7 @@
       "VertexType": "Person",
       "Name": "Pierce Butler",
       "Sticker": "Associate Justice",
-      "Blurb": "Historical office holder.",
+      "Blurb": "Pierce Butler (Wikipedia)",
       "source_office_keys": [
         "scotus_associate_seat_11"
       ],
@@ -11019,9 +11019,9 @@
       "FamilyName": "Butler",
       "Links": [
         {
-          "URL": "https://bioguide.congress.gov/search/bio/B001186",
-          "Blurb": "Pierce Butler — Biographical Directory of the United States Congress",
-          "DateRetrieved": "2026-07-24",
+          "URL": "https://en.wikipedia.org/wiki/Pierce_Butler_(justice)",
+          "Blurb": "Pierce Butler (justice) on Wikipedia.",
+          "DateRetrieved": "2026-08-10",
           "IAFlag": false,
           "IALink": null
         }
@@ -11034,10 +11034,10 @@
           "given": 0.75,
           "family": 0.75
         },
-        "bioguide_id": "B001186",
-        "correlate": "fjc:1378641"
+        "correlate": "fjc:1378641",
+        "wiki_page": "Pierce_Butler_(justice)"
       },
-      "ProspectusID": "72a4cd2a-fa72-774a-a73c-8821e260a7b7"
+      "ProspectusID": "72a4cd2a-fa72-774a-a73c-887e2186c5af"
     },
     {
       "VertexType": "Person",
@@ -13849,19 +13849,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "M[ary] Hannah Lauck",
+      "Name": "Mary Hannah Lauck",
       "Sticker": "U.S. Magistrate Judge",
-      "Blurb": "M[ary] Hannah Lauck (Wikipedia)",
+      "Blurb": "Mary Hannah Lauck (Wikipedia)",
       "source_office_keys": [
         "other_federal_judicial_service"
       ],
-      "GivenName": "M[ary]",
+      "GivenName": "Mary",
       "FamilyName": "Lauck",
       "MiddleInitial": "H",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Mary_Hannah_Lauck",
-          "Blurb": "M[ary] Hannah Lauck on Wikipedia.",
+          "Blurb": "Mary Hannah Lauck on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -13871,7 +13871,7 @@
         "version": "0.1",
         "middle": "Hannah",
         "name_source": "gold_display_name",
-        "raw": "M[ary] Hannah Lauck",
+        "raw": "Mary Hannah Lauck",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -28763,20 +28763,20 @@
     },
     {
       "VertexType": "Person",
-      "Name": "D[avid] Brooks Smith",
+      "Name": "David Brooks Smith",
       "Sticker": "Judge",
       "Blurb": "Historical office holder.",
       "source_office_keys": [
         "district_court_for_the_western_district_of_pennsylvania"
       ],
-      "GivenName": "D[avid]",
+      "GivenName": "David",
       "FamilyName": "Smith",
       "MiddleInitial": "B",
       "Sidecar": {
         "version": "0.1",
         "middle": "Brooks",
         "name_source": "gold_display_name",
-        "raw": "D[avid] Brooks Smith",
+        "raw": "David Brooks Smith",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75

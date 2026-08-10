@@ -3,7 +3,7 @@
   "slice_id": "usg_appointed_holders:people_appointed_e:0.4.2-appointed-2",
   "pack_id": "usg_appointed_holders",
   "record_count": 1056,
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.7-identity-fixes",
   "requires_seeds_bundle_version": "0.3.25",
   "corpus_as_of": "2025-01-20",
   "notes": "Canonical Person records for appointed federal holders.",
@@ -21838,19 +21838,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "J[ames] Leon Holmes",
+      "Name": "James Leon Holmes",
       "Sticker": "Judge",
-      "Blurb": "J[ames] Leon Holmes (Wikipedia)",
+      "Blurb": "James Leon Holmes (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_eastern_district_of_arkansas"
       ],
-      "GivenName": "J[ames]",
+      "GivenName": "James",
       "FamilyName": "Holmes",
       "MiddleInitial": "L",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/James_Leon_Holmes",
-          "Blurb": "J[ames] Leon Holmes on Wikipedia.",
+          "Blurb": "James Leon Holmes on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -21860,7 +21860,7 @@
         "version": "0.1",
         "middle": "Leon",
         "name_source": "gold_display_name",
-        "raw": "J[ames] Leon Holmes",
+        "raw": "James Leon Holmes",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75

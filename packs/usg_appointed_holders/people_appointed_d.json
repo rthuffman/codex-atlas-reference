@@ -3,7 +3,7 @@
   "slice_id": "usg_appointed_holders:people_appointed_d:0.4.2-appointed-2",
   "pack_id": "usg_appointed_holders",
   "record_count": 1059,
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.7-identity-fixes",
   "requires_seeds_bundle_version": "0.3.25",
   "corpus_as_of": "2025-01-20",
   "notes": "Canonical Person records for appointed federal holders.",
@@ -13437,20 +13437,20 @@
     },
     {
       "VertexType": "Person",
-      "Name": "H[arold] Brent McKnight",
+      "Name": "Harold Brent McKnight",
       "Sticker": "U.S. Magistrate Judge",
-      "Blurb": "H[arold] Brent McKnight (Wikipedia)",
+      "Blurb": "Harold Brent McKnight (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_western_district_of_north_carolina",
         "other_federal_judicial_service"
       ],
-      "GivenName": "H[arold]",
+      "GivenName": "Harold",
       "FamilyName": "McKnight",
       "MiddleInitial": "B",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Harold_Brent_McKnight",
-          "Blurb": "H[arold] Brent McKnight on Wikipedia.",
+          "Blurb": "Harold Brent McKnight on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -13460,7 +13460,7 @@
         "version": "0.1",
         "middle": "Brent",
         "name_source": "gold_display_name",
-        "raw": "H[arold] Brent McKnight",
+        "raw": "Harold Brent McKnight",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -21301,19 +21301,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "C[harles] Weston Houck",
+      "Name": "Charles Weston Houck",
       "Sticker": "Judge",
-      "Blurb": "C[harles] Weston Houck (Wikipedia)",
+      "Blurb": "Charles Weston Houck (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_district_of_south_carolina"
       ],
-      "GivenName": "C[harles]",
+      "GivenName": "Charles",
       "FamilyName": "Houck",
       "MiddleInitial": "W",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Charles_Weston_Houck",
-          "Blurb": "C[harles] Weston Houck on Wikipedia.",
+          "Blurb": "Charles Weston Houck on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -21323,7 +21323,7 @@
         "version": "0.1",
         "middle": "Weston",
         "name_source": "gold_display_name",
-        "raw": "C[harles] Weston Houck",
+        "raw": "Charles Weston Houck",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -21643,19 +21643,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "H[oward] David Hermansdorfer",
+      "Name": "Howard David Hermansdorfer",
       "Sticker": "Judge",
-      "Blurb": "H[oward] David Hermansdorfer (Wikipedia)",
+      "Blurb": "Howard David Hermansdorfer (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_eastern_district_of_kentucky"
       ],
-      "GivenName": "H[oward]",
+      "GivenName": "Howard",
       "FamilyName": "Hermansdorfer",
       "MiddleInitial": "D",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Howard_David_Hermansdorfer",
-          "Blurb": "H[oward] David Hermansdorfer on Wikipedia.",
+          "Blurb": "Howard David Hermansdorfer on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -21665,7 +21665,7 @@
         "version": "0.1",
         "middle": "David",
         "name_source": "gold_display_name",
-        "raw": "H[oward] David Hermansdorfer",
+        "raw": "Howard David Hermansdorfer",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -22759,19 +22759,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "E[manuel] Mac Troutman",
+      "Name": "Emanuel Mac Troutman",
       "Sticker": "Judge",
-      "Blurb": "E[manuel] Mac Troutman (Wikipedia)",
+      "Blurb": "Emanuel Mac Troutman (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_eastern_district_of_pennsylvania"
       ],
-      "GivenName": "E[manuel]",
+      "GivenName": "Emanuel",
       "FamilyName": "Troutman",
       "MiddleInitial": "M",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Emanuel_Mac_Troutman",
-          "Blurb": "E[manuel] Mac Troutman on Wikipedia.",
+          "Blurb": "Emanuel Mac Troutman on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -22781,7 +22781,7 @@
         "version": "0.1",
         "middle": "Mac",
         "name_source": "gold_display_name",
-        "raw": "E[manuel] Mac Troutman",
+        "raw": "Emanuel Mac Troutman",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -24230,19 +24230,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "J[ames] Robert Elliott",
+      "Name": "James Robert Elliott",
       "Sticker": "Judge",
-      "Blurb": "J[ames] Robert Elliott (Wikipedia)",
+      "Blurb": "James Robert Elliott (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_middle_district_of_georgia"
       ],
-      "GivenName": "J[ames]",
+      "GivenName": "James",
       "FamilyName": "Elliott",
       "MiddleInitial": "R",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/James_Robert_Elliott",
-          "Blurb": "J[ames] Robert Elliott on Wikipedia.",
+          "Blurb": "James Robert Elliott on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -24252,7 +24252,7 @@
         "version": "0.1",
         "middle": "Robert",
         "name_source": "gold_display_name",
-        "raw": "J[ames] Robert Elliott",
+        "raw": "James Robert Elliott",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -26417,19 +26417,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "[Elton] Joe Kendall",
+      "Name": "Elton Joe Kendall",
       "Sticker": "Judge",
-      "Blurb": "[Elton] Joe Kendall (Wikipedia)",
+      "Blurb": "Elton Joe Kendall (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_northern_district_of_texas"
       ],
-      "GivenName": "[Elton]",
+      "GivenName": "Elton",
       "FamilyName": "Kendall",
       "MiddleInitial": "J",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Elton_Joe_Kendall",
-          "Blurb": "[Elton] Joe Kendall on Wikipedia.",
+          "Blurb": "Elton Joe Kendall on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -26439,7 +26439,7 @@
         "version": "0.1",
         "middle": "Joe",
         "name_source": "gold_display_name",
-        "raw": "[Elton] Joe Kendall",
+        "raw": "Elton Joe Kendall",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75
@@ -27369,19 +27369,19 @@
     },
     {
       "VertexType": "Person",
-      "Name": "J[ackson] Leroy Adair",
+      "Name": "Jackson Leroy Adair",
       "Sticker": "Judge",
-      "Blurb": "J[ackson] Leroy Adair (Wikipedia)",
+      "Blurb": "Jackson Leroy Adair (Wikipedia)",
       "source_office_keys": [
         "district_court_for_the_southern_district_of_illinois"
       ],
-      "GivenName": "J[ackson]",
+      "GivenName": "Jackson",
       "FamilyName": "Adair",
       "MiddleInitial": "L",
       "Links": [
         {
           "URL": "https://en.wikipedia.org/wiki/Jackson_Leroy_Adair",
-          "Blurb": "J[ackson] Leroy Adair on Wikipedia.",
+          "Blurb": "Jackson Leroy Adair on Wikipedia.",
           "DateRetrieved": "2026-07-24",
           "IAFlag": false,
           "IALink": null
@@ -27391,7 +27391,7 @@
         "version": "0.1",
         "middle": "Leroy",
         "name_source": "gold_display_name",
-        "raw": "J[ackson] Leroy Adair",
+        "raw": "Jackson Leroy Adair",
         "name_confidence": {
           "given": 0.75,
           "family": 0.75

@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.6-name-pollution",
+  "bundle_version": "0.4.7-identity-fixes",
   "requires_seeds_bundle_version": "0.3.25",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "patch",
@@ -153,7 +153,7 @@
     },
     {
       "pack_id": "usg_appointed_holders",
-      "pack_version": "0.1.1-appointed-2+3",
+      "pack_version": "0.1.1-appointed-3+3",
       "files": [
         "people_appointed_a.json",
         "people_appointed_b.json",
@@ -270,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.6-name-pollution: clean party/from-date/leading-dash pollution from House and Senate Person Name/Sticker/FamilyName/Sidecar.raw; fix Hearst/du Pont/McKellar/Butler/Pettigrew structured name parts; normalize curly apostrophe to ASCII in Person name fields (incl. L'Engle). Does not alter intentional appointed role Stickers. Requires seeds >= 0.3.25."
+  "notes": "v0.4.7-identity-fixes: split SCOTUS Pierce Butler (fjc:1378641) from SC Senator Pierce Butler (B001186 / …8821e260a7b7) onto new Person …887e2186c5af and retarget scotus_associate_seat_11 HoldsSeat; expand FJC bracket GivenNames (R[obert]→Robert) in appointed people packs; keep ASCII apostrophe normalization from 0.4.6. Requires seeds >= 0.3.25."
 }
