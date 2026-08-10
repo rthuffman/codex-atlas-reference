@@ -3,7 +3,7 @@
   "slice_id": "us_holders_house_people_post_reconstruction_certified",
   "pack_id": "us_holders_house",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.5-missing-bioguide",
+  "reference_bundle_version": "0.4.6-name-pollution",
   "record_count": 4406,
   "corpus_as_of": "2026-06-25",
   "notes": "Canonical Person records for Post-Reconstruction certified (operator gold); generated from operator gold.",
@@ -5339,7 +5339,7 @@
         44
       ],
       "GivenName": "William",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000017",
@@ -20305,7 +20305,7 @@
         63
       ],
       "GivenName": "James",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000012",
@@ -20527,7 +20527,7 @@
         46
       ],
       "GivenName": "Daniel",
-      "FamilyName": "O’Reilly",
+      "FamilyName": "O'Reilly",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000099",
@@ -21642,7 +21642,7 @@
         47
       ],
       "GivenName": "Michael",
-      "FamilyName": "O’Connor",
+      "FamilyName": "O'Connor",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000031",
@@ -23178,8 +23178,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Nelson Dingley Jr. (R) from September 12, 1881",
-      "Sticker": "Nelson Dingley Jr. (R) from September 12, 1881",
+      "Name": "Nelson Dingley Jr.",
+      "Sticker": "Nelson Dingley Jr.",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         47,
@@ -23207,7 +23207,7 @@
         "version": "0.1",
         "suffix": "Jr",
         "name_source": "gold_explicit",
-        "raw": "Nelson Dingley Jr. (R) from September 12, 1881",
+        "raw": "Nelson Dingley Jr.",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -24077,8 +24077,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Charles R. Skinner (R) from November 18, 1881",
-      "Sticker": "Charles R. Skinner (R) from November 18, 1881",
+      "Name": "Charles R. Skinner",
+      "Sticker": "Charles R. Skinner",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         47,
@@ -24098,7 +24098,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Charles R. Skinner (R) from November 18, 1881",
+        "raw": "Charles R. Skinner",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -28079,7 +28079,7 @@
         49
       ],
       "GivenName": "James",
-      "FamilyName": "O’Hara",
+      "FamilyName": "O'Hara",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000054",
@@ -30318,7 +30318,7 @@
         53
       ],
       "GivenName": "Charles",
-      "FamilyName": "O’Ferrall",
+      "FamilyName": "O'Ferrall",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000040",
@@ -32181,7 +32181,7 @@
         52
       ],
       "GivenName": "James",
-      "FamilyName": "O’Donnell",
+      "FamilyName": "O'Donnell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000039",
@@ -35395,7 +35395,7 @@
         51
       ],
       "GivenName": "John",
-      "FamilyName": "O’Neall",
+      "FamilyName": "O'Neall",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000091",
@@ -39805,7 +39805,7 @@
         53
       ],
       "GivenName": "Joseph",
-      "FamilyName": "O’Neil",
+      "FamilyName": "O'Neil",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000092",
@@ -65160,7 +65160,7 @@
         56
       ],
       "GivenName": "James",
-      "FamilyName": "O’Grady",
+      "FamilyName": "O'Grady",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000051",
@@ -77777,7 +77777,7 @@
         61
       ],
       "GivenName": "Joseph",
-      "FamilyName": "O’Connell",
+      "FamilyName": "O'Connell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000026",
@@ -86740,7 +86740,7 @@
         65
       ],
       "GivenName": "George",
-      "FamilyName": "O’Shaunessy",
+      "FamilyName": "O'Shaunessy",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000117",
@@ -87365,8 +87365,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- John Abercrombie",
-      "Sticker": "- John Abercrombie",
+      "Name": "John Abercrombie",
+      "Sticker": "John Abercrombie",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -87386,7 +87386,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- John Abercrombie",
+        "raw": "John Abercrombie",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -87616,8 +87616,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Charles W. Bell (Prog.)",
-      "Sticker": "Charles W. Bell (Prog.)",
+      "Name": "Charles W. Bell",
+      "Sticker": "Charles W. Bell",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -87636,7 +87636,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Charles W. Bell (Prog.)",
+        "raw": "Charles W. Bell",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -87838,8 +87838,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Franklin Brockson",
-      "Sticker": "- Franklin Brockson",
+      "Name": "Franklin Brockson",
+      "Sticker": "Franklin Brockson",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -87858,7 +87858,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Franklin Brockson",
+        "raw": "Franklin Brockson",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -87901,14 +87901,14 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Claude L'Engle",
-      "Sticker": "- Claude L'Engle",
+      "Name": "Claude L'Engle",
+      "Sticker": "Claude L'Engle",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
       ],
       "GivenName": "Claude",
-      "FamilyName": "L’Engle",
+      "FamilyName": "L'Engle",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/L000548",
@@ -87921,7 +87921,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Claude L'Engle",
+        "raw": "Claude L'Engle",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -88141,8 +88141,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Addison T. Smith",
-      "Sticker": "- Addison T. Smith",
+      "Name": "Addison T. Smith",
+      "Sticker": "Addison T. Smith",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -88170,7 +88170,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Addison T. Smith",
+        "raw": "Addison T. Smith",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -88181,8 +88181,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Charles M. Thomson (Prog.)",
-      "Sticker": "Charles M. Thomson (Prog.)",
+      "Name": "Charles M. Thomson",
+      "Sticker": "Charles M. Thomson",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -88201,7 +88201,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Charles M. Thomson (Prog.)",
+        "raw": "Charles M. Thomson",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -88212,8 +88212,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "William H. Hinebaugh (Prog.)",
-      "Sticker": "William H. Hinebaugh (Prog.)",
+      "Name": "William H. Hinebaugh",
+      "Sticker": "William H. Hinebaugh",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -88232,7 +88232,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "William H. Hinebaugh (Prog.)",
+        "raw": "William H. Hinebaugh",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -88344,7 +88344,7 @@
         63
       ],
       "GivenName": "Frank",
-      "FamilyName": "O’Hair",
+      "FamilyName": "O'Hair",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000052",
@@ -88534,8 +88534,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Lawrence B. Stringer",
-      "Sticker": "- Lawrence B. Stringer",
+      "Name": "Lawrence B. Stringer",
+      "Sticker": "Lawrence B. Stringer",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -88554,7 +88554,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Lawrence B. Stringer",
+        "raw": "Lawrence B. Stringer",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -89285,8 +89285,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Roy O. Woodruff (Prog.)",
-      "Sticker": "Roy O. Woodruff (Prog.)",
+      "Name": "Roy O. Woodruff",
+      "Sticker": "Roy O. Woodruff",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -89318,7 +89318,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Roy O. Woodruff (Prog.)",
+        "raw": "Roy O. Woodruff",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -89360,8 +89360,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "William Josiah MacDonald (Prog.)",
-      "Sticker": "William Josiah MacDonald (Prog.)",
+      "Name": "William Josiah MacDonald",
+      "Sticker": "William Josiah MacDonald",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -89380,7 +89380,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "William Josiah MacDonald (Prog.)",
+        "raw": "William Josiah MacDonald",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -89507,8 +89507,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Patrick H. Kelley",
-      "Sticker": "- Patrick H. Kelley",
+      "Name": "Patrick H. Kelley",
+      "Sticker": "Patrick H. Kelley",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -89531,7 +89531,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Patrick H. Kelley",
+        "raw": "Patrick H. Kelley",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -89743,8 +89743,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- John M. Evans",
-      "Sticker": "- John M. Evans",
+      "Name": "John M. Evans",
+      "Sticker": "John M. Evans",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -89771,7 +89771,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- John M. Evans",
+        "raw": "John M. Evans",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -89782,8 +89782,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Tom Stout",
-      "Sticker": "- Tom Stout",
+      "Name": "Tom Stout",
+      "Sticker": "Tom Stout",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -89803,7 +89803,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Tom Stout",
+        "raw": "Tom Stout",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -90335,8 +90335,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Walter M. Chandler (Prog.)",
-      "Sticker": "Walter M. Chandler (Prog.)",
+      "Name": "Walter M. Chandler",
+      "Sticker": "Walter M. Chandler",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -90361,7 +90361,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Walter M. Chandler (Prog.)",
+        "raw": "Walter M. Chandler",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -90379,7 +90379,7 @@
         63
       ],
       "GivenName": "Denis",
-      "FamilyName": "O’Leary",
+      "FamilyName": "O'Leary",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000064",
@@ -90991,8 +90991,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Robert Crosser",
-      "Sticker": "- Robert Crosser",
+      "Name": "Robert Crosser",
+      "Sticker": "Robert Crosser",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91025,7 +91025,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Robert Crosser",
+        "raw": "Robert Crosser",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91036,8 +91036,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- William H. Murray",
-      "Sticker": "- William H. Murray",
+      "Name": "William H. Murray",
+      "Sticker": "William H. Murray",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91057,7 +91057,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- William H. Murray",
+        "raw": "William H. Murray",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91068,8 +91068,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Joseph Bryan Thompson",
-      "Sticker": "- Joseph Bryan Thompson",
+      "Name": "Joseph Bryan Thompson",
+      "Sticker": "Joseph Bryan Thompson",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91091,7 +91091,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Joseph Bryan Thompson",
+        "raw": "Joseph Bryan Thompson",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91102,8 +91102,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Claude Weaver",
-      "Sticker": "- Claude Weaver",
+      "Name": "Claude Weaver",
+      "Sticker": "Claude Weaver",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -91122,7 +91122,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Claude Weaver",
+        "raw": "Claude Weaver",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91513,8 +91513,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Henry W. Temple (Prog.)",
-      "Sticker": "Henry W. Temple (Prog.)",
+      "Name": "Henry W. Temple",
+      "Sticker": "Henry W. Temple",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91542,7 +91542,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Henry W. Temple (Prog.)",
+        "raw": "Henry W. Temple",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91591,8 +91591,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Willis J. Hulings (Prog.)",
-      "Sticker": "Willis J. Hulings (Prog.)",
+      "Name": "Willis J. Hulings",
+      "Sticker": "Willis J. Hulings",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91612,7 +91612,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Willis J. Hulings (Prog.)",
+        "raw": "Willis J. Hulings",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91731,8 +91731,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Fred E. Lewis",
-      "Sticker": "- Fred E. Lewis",
+      "Name": "Fred E. Lewis",
+      "Sticker": "Fred E. Lewis",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -91751,7 +91751,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Fred E. Lewis",
+        "raw": "Fred E. Lewis",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91762,8 +91762,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- John M. Morin",
-      "Sticker": "- John M. Morin",
+      "Name": "John M. Morin",
+      "Sticker": "John M. Morin",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91789,7 +91789,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- John M. Morin",
+        "raw": "John M. Morin",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91800,8 +91800,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Arthur R. Rupley",
-      "Sticker": "- Arthur R. Rupley",
+      "Name": "Arthur R. Rupley",
+      "Sticker": "Arthur R. Rupley",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -91820,7 +91820,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Arthur R. Rupley",
+        "raw": "Arthur R. Rupley",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -91831,8 +91831,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Anderson H. Walters",
-      "Sticker": "- Anderson H. Walters",
+      "Name": "Anderson H. Walters",
+      "Sticker": "Anderson H. Walters",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -91854,7 +91854,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Anderson H. Walters",
+        "raw": "Anderson H. Walters",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92152,8 +92152,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Daniel E. Garrett",
-      "Sticker": "- Daniel E. Garrett",
+      "Name": "Daniel E. Garrett",
+      "Sticker": "Daniel E. Garrett",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -92179,7 +92179,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Daniel E. Garrett",
+        "raw": "Daniel E. Garrett",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92190,8 +92190,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Hatton W. Sumners",
-      "Sticker": "- Hatton W. Sumners",
+      "Name": "Hatton W. Sumners",
+      "Sticker": "Hatton W. Sumners",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -92226,7 +92226,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Hatton W. Sumners",
+        "raw": "Hatton W. Sumners",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92237,8 +92237,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Jacob Johnson",
-      "Sticker": "- Jacob Johnson",
+      "Name": "Jacob Johnson",
+      "Sticker": "Jacob Johnson",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -92257,7 +92257,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Jacob Johnson",
+        "raw": "Jacob Johnson",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92385,8 +92385,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- James W. Bryan (Prog.)",
-      "Sticker": "- James W. Bryan (Prog.)",
+      "Name": "James W. Bryan",
+      "Sticker": "James W. Bryan",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -92405,7 +92405,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- James W. Bryan (Prog.)",
+        "raw": "James W. Bryan",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92416,8 +92416,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Jacob Falconer (Prog.)",
-      "Sticker": "- Jacob Falconer (Prog.)",
+      "Name": "Jacob Falconer",
+      "Sticker": "Jacob Falconer",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63
@@ -92436,7 +92436,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Jacob Falconer (Prog.)",
+        "raw": "Jacob Falconer",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92663,8 +92663,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Howard Sutherland",
-      "Sticker": "- Howard Sutherland",
+      "Name": "Howard Sutherland",
+      "Sticker": "Howard Sutherland",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         63,
@@ -92684,7 +92684,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "- Howard Sutherland",
+        "raw": "Howard Sutherland",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92961,8 +92961,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "John A. Elston (Prog.)",
-      "Sticker": "John A. Elston (Prog.)",
+      "Name": "John A. Elston",
+      "Sticker": "John A. Elston",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -92984,7 +92984,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "John A. Elston (Prog.)",
+        "raw": "John A. Elston",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -92995,8 +92995,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Charles H. Randall (Proh.)",
-      "Sticker": "Charles H. Randall (Proh.)",
+      "Name": "Charles H. Randall",
+      "Sticker": "Charles H. Randall",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -93017,7 +93017,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Charles H. Randall (Proh.)",
+        "raw": "Charles H. Randall",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -93919,8 +93919,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Whitmell P. Martin (Prog.)",
-      "Sticker": "Whitmell P. Martin (Prog.)",
+      "Name": "Whitmell P. Martin",
+      "Sticker": "Whitmell P. Martin",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -93946,7 +93946,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Whitmell P. Martin (Prog.)",
+        "raw": "Whitmell P. Martin",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -94394,8 +94394,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Thomas D. Schall (Prog.)",
-      "Sticker": "Thomas D. Schall (Prog.)",
+      "Name": "Thomas D. Schall",
+      "Sticker": "Thomas D. Schall",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -94418,7 +94418,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Thomas D. Schall (Prog.)",
+        "raw": "Thomas D. Schall",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -94910,8 +94910,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Frederick C. Hicks (R) from January 4, 1916",
-      "Sticker": "Frederick C. Hicks (R) from January 4, 1916",
+      "Name": "Frederick C. Hicks",
+      "Sticker": "Frederick C. Hicks",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -94933,7 +94933,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Frederick C. Hicks (R) from January 4, 1916",
+        "raw": "Frederick C. Hicks",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -94977,8 +94977,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Meyer London (Soc.)",
-      "Sticker": "Meyer London (Soc.)",
+      "Name": "Meyer London",
+      "Sticker": "Meyer London",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         64,
@@ -94999,7 +94999,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Meyer London (Soc.)",
+        "raw": "Meyer London",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -101016,7 +101016,7 @@
         79
       ],
       "GivenName": "James",
-      "FamilyName": "O’Connor",
+      "FamilyName": "O'Connor",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000029",
@@ -102490,7 +102490,7 @@
         71
       ],
       "GivenName": "David",
-      "FamilyName": "O’Connell",
+      "FamilyName": "O'Connell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000022",
@@ -105991,7 +105991,7 @@
         68
       ],
       "GivenName": "Charles",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000008",
@@ -108089,7 +108089,7 @@
         68
       ],
       "GivenName": "Patrick",
-      "FamilyName": "O’Sullivan",
+      "FamilyName": "O'Sullivan",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000123",
@@ -110217,7 +110217,7 @@
         75
       ],
       "GivenName": "John",
-      "FamilyName": "O’Connor",
+      "FamilyName": "O'Connor",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000030",
@@ -111377,7 +111377,7 @@
         71
       ],
       "GivenName": "Jeremiah",
-      "FamilyName": "O’Connell",
+      "FamilyName": "O'Connell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000023",
@@ -116492,7 +116492,7 @@
         70
       ],
       "GivenName": "William",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000018",
@@ -118528,7 +118528,7 @@
         71
       ],
       "GivenName": "Charles",
-      "FamilyName": "O’Connor",
+      "FamilyName": "O'Connor",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000027",
@@ -123533,7 +123533,7 @@
         79
       ],
       "GivenName": "Thomas",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000016",
@@ -123839,7 +123839,7 @@
       ],
       "Sidecar": {
         "version": "0.1",
-        "middle": "O’Loughlin",
+        "middle": "O'Loughlin",
         "name_source": "gold_explicit",
         "raw": "Kathryn O'Loughlin McCarthy",
         "name_confidence": {
@@ -126323,7 +126323,7 @@
         75
       ],
       "GivenName": "John",
-      "FamilyName": "O’Connell",
+      "FamilyName": "O'Connell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000025",
@@ -127097,7 +127097,7 @@
         75
       ],
       "GivenName": "Thomas",
-      "FamilyName": "O’Malley",
+      "FamilyName": "O'Malley",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000087",
@@ -128326,7 +128326,7 @@
         79
       ],
       "GivenName": "Emmet",
-      "FamilyName": "O’Neal",
+      "FamilyName": "O'Neal",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000089",
@@ -129385,7 +129385,7 @@
         78
       ],
       "GivenName": "James",
-      "FamilyName": "O’Leary",
+      "FamilyName": "O'Leary",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000065",
@@ -129794,7 +129794,7 @@
         77
       ],
       "GivenName": "Caroline",
-      "FamilyName": "O’Day",
+      "FamilyName": "O'Day",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000033",
@@ -132142,7 +132142,7 @@
         79
       ],
       "GivenName": "George",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000009",
@@ -132364,7 +132364,7 @@
         75
       ],
       "GivenName": "Jerry",
-      "FamilyName": "O’Connell",
+      "FamilyName": "O'Connell",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000024",
@@ -132459,7 +132459,7 @@
         75
       ],
       "GivenName": "Edward",
-      "FamilyName": "O’Neill",
+      "FamilyName": "O'Neill",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000094",
@@ -132827,7 +132827,7 @@
         79
       ],
       "GivenName": "Donald",
-      "FamilyName": "O’Toole",
+      "FamilyName": "O'Toole",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000133",
@@ -135470,7 +135470,7 @@
         79
       ],
       "GivenName": "Thomas",
-      "FamilyName": "D’Alesandro",
+      "FamilyName": "D'Alesandro",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/D000007",
@@ -136459,7 +136459,7 @@
         78
       ],
       "GivenName": "Joseph",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000014",
@@ -139344,7 +139344,7 @@
         79
       ],
       "GivenName": "Joseph",
-      "FamilyName": "O’Hara",
+      "FamilyName": "O'Hara",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000056",
@@ -142131,8 +142131,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Harold Hagen (FL), changed to (R) on April 15, 1944",
-      "Sticker": "Harold Hagen (FL), changed to (R) on April 15, 1944",
+      "Name": "Harold Hagen",
+      "Sticker": "Harold Hagen",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         78,
@@ -142152,7 +142152,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Harold Hagen (FL), changed to (R) on April 15, 1944",
+        "raw": "Harold Hagen",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -144017,7 +144017,7 @@
         79
       ],
       "GivenName": "Alvin",
-      "FamilyName": "O’Konski",
+      "FamilyName": "O'Konski",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000058",
@@ -145073,7 +145073,7 @@
         79
       ],
       "GivenName": "Wesley",
-      "FamilyName": "D’Ewart",
+      "FamilyName": "D'Ewart",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/D000281",

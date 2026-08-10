@@ -3,7 +3,7 @@
   "slice_id": "us_holders_senate_people_pre_civil_war",
   "pack_id": "us_holders_senate",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.6-name-pollution",
   "record_count": 385,
   "corpus_as_of": "2026-07-10",
   "notes": "Canonical Person records for Pre–Civil War (Wikipedia draft) Senate; generated from operator gold.",
@@ -719,18 +719,17 @@
         7,
         8
       ],
-      "GivenName": "resigned",
-      "FamilyName": "(dr)",
+      "GivenName": "Pierce",
+      "FamilyName": "Butler",
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Pierce Butler (DR), resigned November 21, 1804",
+        "raw": "Pierce Butler",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
         },
-        "bioguide_id": "B001186",
-        "middle": "November 21 1804 Pierce Butler"
+        "bioguide_id": "B001186"
       },
       "Links": [
         {
@@ -741,7 +740,6 @@
           "IALink": null
         }
       ],
-      "MiddleInitial": "N",
       "ProspectusID": "72a4cd2a-fa72-774a-a73c-8821e260a7b7"
     },
     {

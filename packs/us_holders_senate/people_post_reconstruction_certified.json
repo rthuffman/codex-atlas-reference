@@ -3,7 +3,7 @@
   "slice_id": "us_holders_senate_people_post_reconstruction_certified",
   "pack_id": "us_holders_senate",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.4-pid-plus3",
+  "reference_bundle_version": "0.4.6-name-pollution",
   "record_count": 591,
   "corpus_as_of": "2026-07-10",
   "notes": "Canonical Person records for Post-Reconstruction certified (operator gold) Senate; generated from operator gold.",
@@ -3577,8 +3577,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "George Hearst (D), March 23 August 4, 1886",
-      "Sticker": "George Hearst (D), March 23 August 4, 1886",
+      "Name": "George Hearst",
+      "Sticker": "George Hearst",
       "Blurb": "Operator gold Senate holder.",
       "source_congresses": [
         49,
@@ -3586,13 +3586,11 @@
         51
       ],
       "GivenName": "George",
-      "FamilyName": "1886",
-      "MiddleInitial": "H",
+      "FamilyName": "Hearst",
       "Sidecar": {
         "version": "0.1",
-        "middle": "Hearst (d), March 23 August 4,",
         "name_source": "gold_explicit",
-        "raw": "George Hearst (D), March 23 August 4, 1886",
+        "raw": "George Hearst",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -4482,8 +4480,8 @@
         55,
         56
       ],
-      "GivenName": "James",
-      "FamilyName": "P)",
+      "GivenName": "Richard",
+      "FamilyName": "Pettigrew",
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
@@ -4493,7 +4491,7 @@
           "family": 1.0
         },
         "bioguide_id": "P000271",
-        "middle": "H. Kyle (i, later"
+        "middle": "F."
       },
       "Links": [
         {
@@ -4504,7 +4502,7 @@
           "IALink": null
         }
       ],
-      "MiddleInitial": "H",
+      "MiddleInitial": "F",
       "ProspectusID": "72a4cd2a-fa72-774a-a73c-882265d1b41d"
     },
     {
@@ -7980,8 +7978,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Henry A. du Pont,",
-      "Sticker": "Henry A. du Pont,",
+      "Name": "Henry A. du Pont",
+      "Sticker": "Henry A. du Pont",
       "Blurb": "Operator gold Senate holder.",
       "source_congresses": [
         59,
@@ -7992,14 +7990,14 @@
         64
       ],
       "GivenName": "Henry",
-      "FamilyName": "du Pont,",
+      "FamilyName": "du Pont",
       "MiddleInitial": "A",
       "Sidecar": {
         "version": "0.1",
         "middle": "A.",
         "particle": "du",
         "name_source": "gold_explicit",
-        "raw": "Henry A. du Pont,",
+        "raw": "Henry A. du Pont",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -14977,20 +14975,20 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Kenneth D. McKellar(D)",
-      "Sticker": "Kenneth D. McKellar(D)",
+      "Name": "Kenneth D. McKellar",
+      "Sticker": "Kenneth D. McKellar",
       "Blurb": "Operator gold Senate holder.",
       "source_congresses": [
         70
       ],
       "GivenName": "Kenneth",
-      "FamilyName": "McKellar(D)",
+      "FamilyName": "McKellar",
       "MiddleInitial": "D",
       "Sidecar": {
         "version": "0.1",
         "middle": "D.",
         "name_source": "gold_explicit",
-        "raw": "Kenneth D. McKellar(D)",
+        "raw": "Kenneth D. McKellar",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0

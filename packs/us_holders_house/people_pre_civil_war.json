@@ -3,7 +3,7 @@
   "slice_id": "us_holders_house_people_pre_civil_war",
   "pack_id": "us_holders_house",
   "requires_seeds_bundle_version": "0.3.25",
-  "reference_bundle_version": "0.4.5-missing-bioguide",
+  "reference_bundle_version": "0.4.6-name-pollution",
   "record_count": 3126,
   "corpus_as_of": "2026-06-24",
   "notes": "Canonical Person records for Pre–Civil War (Wikipedia draft); generated from operator gold.",
@@ -10977,8 +10977,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "- Isaac Van Horne",
-      "Sticker": "- Isaac Van Horne",
+      "Name": "Isaac Van Horne",
+      "Sticker": "Isaac Van Horne",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         7,
@@ -10999,7 +10999,7 @@
         "version": "0.1",
         "particle": "van",
         "name_source": "gold_explicit",
-        "raw": "- Isaac Van Horne",
+        "raw": "Isaac Van Horne",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -15292,13 +15292,13 @@
     },
     {
       "VertexType": "Person",
-      "Name": "O’Brien Smith",
-      "Sticker": "O’Brien Smith",
+      "Name": "O'Brien Smith",
+      "Sticker": "O'Brien Smith",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         9
       ],
-      "GivenName": "O’Brien",
+      "GivenName": "O'Brien",
       "FamilyName": "Smith",
       "Links": [
         {
@@ -15312,7 +15312,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "O’Brien Smith",
+        "raw": "O'Brien Smith",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -25415,8 +25415,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Micah Brooks (DR),",
-      "Sticker": "Micah Brooks (DR),",
+      "Name": "Micah Brooks",
+      "Sticker": "Micah Brooks",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         14
@@ -25435,7 +25435,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Micah Brooks (DR),",
+        "raw": "Micah Brooks",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -36980,8 +36980,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "Jeremiah O’Brien",
-      "Sticker": "Jeremiah O’Brien",
+      "Name": "Jeremiah O'Brien",
+      "Sticker": "Jeremiah O'Brien",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         18,
@@ -36989,7 +36989,7 @@
         20
       ],
       "GivenName": "Jeremiah",
-      "FamilyName": "O’Brien",
+      "FamilyName": "O'Brien",
       "Links": [
         {
           "URL": "https://bioguide.congress.gov/search/bio/O000013",
@@ -37002,7 +37002,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "Jeremiah O’Brien",
+        "raw": "Jeremiah O'Brien",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0
@@ -70344,8 +70344,8 @@
     },
     {
       "VertexType": "Person",
-      "Name": "William Wright (Ind. W)",
-      "Sticker": "William Wright (Ind. W)",
+      "Name": "William Wright",
+      "Sticker": "William Wright",
       "Blurb": "Operator gold House holder.",
       "source_congresses": [
         28
@@ -70364,7 +70364,7 @@
       "Sidecar": {
         "version": "0.1",
         "name_source": "gold_explicit",
-        "raw": "William Wright (Ind. W)",
+        "raw": "William Wright",
         "name_confidence": {
           "given": 1.0,
           "family": 1.0

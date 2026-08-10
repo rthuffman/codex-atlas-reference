@@ -1,10 +1,10 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.5-missing-bioguide",
+  "bundle_version": "0.4.6-name-pollution",
   "requires_seeds_bundle_version": "0.3.25",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "patch",
-  "corpus_as_of": "2026-08-09",
+  "corpus_as_of": "2026-08-10",
   "gold_vacant_house_office_keys": [
     "37|AL|1",
     "37|AL|2",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.3.2-holders-1-119.5+3",
+      "pack_version": "0.3.2-holders-1-119.6+3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -182,7 +182,7 @@
     },
     {
       "pack_id": "us_holders_senate",
-      "pack_version": "0.1.0-senate-1-79.2+3",
+      "pack_version": "0.1.0-senate-1-79.3+3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -270,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.5-missing-bioguide: fill missing House Person bioguide Links for the congressional missing-bioguide cohort; clean William B. Spencer and Zadoc L. Weatherford polluted display names/name-parts. Hold DoB/DoE unchanged. Anomaly holders (Bloom, Tillotson, O'Malley) remain without bioguide."
+  "notes": "v0.4.6-name-pollution: clean party/from-date/leading-dash pollution from House and Senate Person Name/Sticker/FamilyName/Sidecar.raw; fix Hearst/du Pont/McKellar/Butler/Pettigrew structured name parts; normalize curly apostrophe to ASCII in Person name fields (incl. L'Engle). Does not alter intentional appointed role Stickers. Requires seeds >= 0.3.25."
 }
