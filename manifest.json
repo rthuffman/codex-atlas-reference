@@ -1,6 +1,6 @@
 {
   "bundle_format_version": 1,
-  "bundle_version": "0.4.7-identity-fixes",
+  "bundle_version": "0.4.8-ascii-apostrophe",
   "requires_seeds_bundle_version": "0.3.25",
   "requires_atlas_schema_version": "1.2.0",
   "release_tier": "patch",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "pack_id": "us_holders_house",
-      "pack_version": "0.3.2-holders-1-119.6+3",
+      "pack_version": "0.3.2-holders-1-119.7+3",
       "files": [
         "congress_001.json",
         "congress_002.json",
@@ -270,5 +270,5 @@
       "description": "Senate HoldsSeat reference for congresses 1-79 (operator gold); includes 5th Congress; TX 36th succession fixed; Person dedupe vs house + prior corpora."
     }
   ],
-  "notes": "v0.4.7-identity-fixes: split SCOTUS Pierce Butler (fjc:1378641) from SC Senator Pierce Butler (B001186 / …8821e260a7b7) onto new Person …887e2186c5af and retarget scotus_associate_seat_11 HoldsSeat; expand FJC bracket GivenNames (R[obert]->Robert) in appointed people packs; keep ASCII apostrophe normalization from 0.4.6. Requires seeds >= 0.3.25."
+  "notes": "v0.4.8-ascii-apostrophe: normalize typographic/curly single quotes and apostrophe lookalikes (U+2018/U+2019/U+02BC/U+00B4/U+2032/U+201B) to ASCII apostrophe U+0027 across reference pack strings (remaining hits were in House people_post_reconstruction_mesh). Requires seeds >= 0.3.25."
 }
